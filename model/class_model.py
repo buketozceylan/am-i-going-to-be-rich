@@ -41,6 +41,5 @@ X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 X_train = pd.DataFrame(X_train, columns = X_cols)
 X_test = pd.DataFrame(X_test, columns = X_cols)
-
-X_train.drop("Unnamed: 0")
-X_test.drop("Unnamed: 0")
+X_train.drop("Unnamed: 0", axis =1)
+X_test.drop("Unnamed: 0", axis =1)
