@@ -11,4 +11,4 @@ from sklearn.compose import ColumnTransformer
 
 df = pd.read_csv("main-data.csv")
 
-
+print(matplotlib.__version__)
