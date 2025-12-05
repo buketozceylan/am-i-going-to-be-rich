@@ -1,0 +1,2527 @@
+,Experience Level,Employment Type,Job Title,Salary,Remote?,Is rich?
+0,SE,FT,Data Scientist,85847,2,0
+1,MI,CT,Machine Learning Engineer,30000,2,0
+2,MI,CT,Machine Learning Engineer,25500,2,0
+3,SE,FT,Data Scientist,90700,0,0
+4,SE,FT,Data Engineer,90700,0,0
+5,SE,FT,Data Scientist,90000,0,0
+6,SE,FT,Data Scientist,72000,0,0
+7,SE,FT,Data Engineer,90700,0,0
+8,MI,FT,Data Analyst,64500,0,0
+9,EN,FT,Data Analyst,30000,2,0
+10,MI,FT,Machine Learning Engineer,20984,1,0
+11,SE,FT,Data Engineer,81500,0,0
+12,MI,FT,Data Scientist,65062,0,0
+13,MI,FT,Machine Learning Engineer,69751,2,0
+14,MI,FT,Machine Learning Engineer,96578,2,0
+15,SE,FT,Data Scientist,48289,0,0
+16,SE,FT,Data Scientist,38631,0,0
+17,SE,FT,Data Scientist,70000,0,0
+18,SE,FT,Data Analyst,65000,0,0
+19,SE,FT,Data Engineer,94300,0,0
+20,EN,FT,Machine Learning Engineer,56536,2,0
+21,MI,FT,Data Engineer,70000,2,0
+22,EN,FT,Data Engineer,85000,0,0
+23,EN,FT,Data Engineer,65000,0,0
+24,SE,FT,Data Scientist,83270,2,0
+25,EN,FT,Data Analyst,75000,0,0
+26,EN,FT,Data Analyst,70000,0,0
+27,SE,FT,Data Engineer,95000,2,0
+28,SE,FT,Data Engineer,75000,2,0
+29,MI,FT,Data Scientist,20670,2,0
+30,MI,FT,Data Analyst,46178,0,0
+31,MI,FT,Data Analyst,42533,0,0
+32,SE,FT,Data Analyst,54685,2,0
+33,SE,FT,Data Analyst,42533,2,0
+34,MI,FT,Data Scientist,66837,0,0
+35,MI,FT,Data Scientist,54685,0,0
+36,EX,FT,Data Analyst,15000,0,0
+37,MI,FT,Data Engineer,85066,2,0
+38,MI,FT,Data Engineer,57723,2,0
+39,EN,FT,Data Analyst,85000,2,1
+40,EN,FT,Data Analyst,75000,2,0
+41,SE,FT,Data Engineer,53654,1,0
+42,SE,FT,Data Analyst,75000,2,0
+43,EN,FT,Data Engineer,17022,2,0
+44,SE,FT,Data Scientist,68318,2,0
+45,MI,FT,Machine Learning Engineer,75020,0,0
+46,SE,FT,Data Analyst,80000,0,0
+47,SE,FT,Data Scientist,88256,2,0
+48,SE,FT,Data Analyst,80000,0,0
+49,SE,FT,Data Analyst,70000,0,0
+50,SE,FT,Data Engineer,86000,2,0
+51,EN,FT,Data Analyst,40663,0,0
+52,SE,FL,Data Scientist,50000,1,0
+53,EN,FT,Data Scientist,51753,2,0
+54,EN,FT,Data Scientist,71907,2,0
+55,MI,FT,Data Scientist,93918,2,0
+56,MI,FT,Data Scientist,51962,2,0
+57,MI,FT,Data Engineer,48289,2,0
+58,MI,FT,Data Analyst,90000,0,0
+59,MI,FT,Data Analyst,75000,0,0
+60,MI,FT,Data Analyst,80000,0,0
+61,MI,FT,Data Analyst,68000,0,0
+62,EN,FT,Data Engineer,60000,2,0
+63,MI,FT,Data Engineer,90000,0,0
+64,SE,FT,Data Analyst,90000,2,0
+65,SE,FT,Data Engineer,75000,0,0
+66,EN,FT,Data Analyst,64200,2,0
+67,EN,FT,Data Analyst,56100,2,0
+68,SE,FT,Machine Learning Engineer,95000,2,0
+69,MI,FT,Data Analyst,72914,0,0
+70,MI,FT,Data Analyst,54685,0,0
+71,EN,FT,Data Engineer,92700,2,0
+72,EN,FT,Data Engineer,61800,2,0
+73,MI,FT,Data Engineer,75000,0,0
+74,EN,FT,Data Engineer,59888,2,0
+75,SE,FT,Data Analyst,80000,2,0
+76,EN,FT,Data Analyst,21461,0,0
+77,SE,FT,Machine Learning Engineer,60000,0,0
+78,MI,FT,Machine Learning Engineer,90000,0,0
+79,SE,FT,Data Analyst,95000,2,0
+80,MI,FT,Data Scientist,96578,0,0
+81,MI,FT,Data Scientist,80481,0,0
+82,MI,FT,Data Analyst,85000,0,0
+83,EN,FT,Machine Learning Engineer,7000,0,0
+84,EN,FT,Data Scientist,42923,1,0
+85,MI,FT,Data Scientist,78990,0,0
+86,MI,FT,Data Scientist,51039,0,0
+87,MI,FT,Data Scientist,85066,0,0
+88,MI,FT,Data Scientist,72914,0,0
+89,MI,FT,Data Scientist,73546,2,0
+90,MI,FT,Data Engineer,75000,2,0
+91,MI,FT,Data Engineer,60400,2,0
+92,MI,FT,Data Scientist,60093,2,0
+93,MI,FT,Data Analyst,83500,2,0
+94,MI,FT,Data Analyst,52500,2,0
+95,EN,FT,Data Engineer,62000,2,0
+96,EN,FT,Data Engineer,58000,2,0
+97,EN,FT,Data Engineer,90000,0,0
+98,MI,FT,Data Engineer,90000,2,0
+99,SE,FT,Data Scientist,90000,2,0
+100,EN,FT,Data Analyst,95000,2,1
+101,EN,FT,Data Analyst,70000,2,0
+102,SE,FT,Data Analyst,81666,2,0
+103,SE,FT,Data Engineer,92000,2,0
+104,SE,FT,Data Engineer,65000,0,0
+105,SE,FT,Data Engineer,48000,0,0
+106,SE,FT,Data Analyst,87000,0,0
+107,EN,FT,Data Engineer,73900,0,0
+108,MI,FT,Data Engineer,85066,2,0
+109,MI,FT,Data Engineer,57723,2,0
+110,MI,FT,Data Engineer,95000,0,0
+111,SE,FT,Data Scientist,94192,0,0
+112,SE,FT,Data Analyst,55000,0,0
+113,MI,FT,Data Analyst,75000,2,0
+114,MI,FT,Data Analyst,65000,2,0
+115,MI,FT,Data Engineer,75020,2,0
+116,MI,FT,Data Scientist,17022,2,0
+117,EN,FT,Machine Learning Engineer,70000,0,0
+118,EN,FT,Machine Learning Engineer,80000,1,0
+119,MI,FT,Data Analyst,18238,1,0
+120,EN,FT,Data Analyst,60000,2,0
+121,MI,FT,Data Scientist,59020,0,0
+122,MI,FT,Data Scientist,48289,0,0
+123,MI,FT,Data Engineer,75116,2,0
+124,MI,FT,Data Engineer,48289,2,0
+125,MI,FT,Data Scientist,70000,0,0
+126,MI,FT,Data Scientist,90000,0,0
+127,MI,FT,Data Scientist,70000,0,0
+128,SE,FT,Data Analyst,94000,2,0
+129,SE,FT,Data Analyst,85000,0,0
+130,MI,FT,Data Engineer,72000,2,0
+131,MI,FT,Data Engineer,60000,2,0
+132,MI,FT,Data Scientist,64385,1,0
+133,SE,FL,Data Engineer,50000,1,0
+134,SE,FT,Data Scientist,82365,0,0
+135,MI,FT,Data Analyst,97218,0,0
+136,MI,FT,Data Analyst,48609,0,0
+137,SE,FT,Data Analyst,95000,0,0
+138,SE,FT,Data Analyst,85500,0,0
+139,MI,FT,Data Scientist,97750,2,0
+140,MI,FT,Data Scientist,82920,2,0
+141,SE,FT,Data Engineer,78000,2,0
+142,MI,FT,Data Analyst,78990,2,0
+143,MI,FT,Data Analyst,43809,2,0
+144,EN,FT,Data Analyst,30000,1,0
+145,EN,PT,Data Analyst,34320,2,0
+146,MI,FT,Data Analyst,9289,2,0
+147,SE,FT,Data Scientist,75116,2,0
+148,SE,FT,Data Analyst,93800,2,0
+149,SE,FT,Data Scientist,90000,2,0
+150,SE,FT,Data Analyst,71897,2,0
+151,EN,FT,Machine Learning Engineer,64385,0,0
+152,SE,FT,Data Analyst,15806,2,0
+153,MI,FT,Data Scientist,40000,1,0
+154,SE,FT,Data Scientist,29453,1,0
+155,SE,FT,Machine Learning Engineer,85847,2,0
+156,SE,FT,Data Analyst,85000,2,0
+157,SE,FT,Data Engineer,72946,0,0
+158,SE,FT,Data Engineer,54365,0,0
+159,SE,FT,Data Engineer,80000,0,0
+160,SE,FT,Data Engineer,65000,0,0
+161,SE,FT,Data Engineer,65488,0,0
+162,SE,FT,Data Analyst,72200,0,0
+163,SE,FT,Data Analyst,64980,0,0
+164,SE,FT,Data Analyst,86466,2,0
+165,SE,FT,Data Engineer,90000,0,0
+166,MI,FT,Data Analyst,51039,0,0
+167,MI,FT,Data Analyst,42533,0,0
+168,MI,FT,Data Scientist,38631,1,0
+169,SE,FT,Data Engineer,87980,0,0
+170,SE,FT,Data Engineer,65000,2,0
+171,SE,FT,Data Analyst,80000,2,0
+172,EN,FT,Data Analyst,55000,0,0
+173,EN,FT,Data Analyst,48000,0,0
+174,SE,FT,Data Analyst,85000,0,0
+175,SE,FT,Data Engineer,81500,2,0
+176,MI,FT,Data Scientist,30000,0,0
+177,SE,FT,Data Engineer,66000,2,0
+178,SE,FT,Machine Learning Engineer,90000,0,0
+179,SE,FT,Data Scientist,78000,0,0
+180,MI,FT,Data Analyst,80000,0,0
+181,MI,FT,Data Analyst,60000,0,0
+182,MI,FT,Data Analyst,72914,0,0
+183,EN,PT,Data Analyst,17779,2,0
+184,EN,FT,Data Scientist,19522,2,0
+185,SE,FT,Machine Learning Engineer,75116,2,0
+186,MI,FT,Data Scientist,72914,0,0
+187,MI,FT,Data Scientist,60761,0,0
+188,EN,FT,Data Scientist,85000,0,0
+189,MI,FT,Machine Learning Engineer,48609,2,0
+190,EN,FT,Machine Learning Engineer,60000,2,0
+191,SE,FT,Machine Learning Engineer,90700,0,0
+192,SE,FT,Data Analyst,55800,2,0
+193,SE,FT,Data Analyst,51508,2,0
+194,EN,FT,Data Analyst,60000,2,0
+195,EN,FT,Data Analyst,50000,1,0
+196,EN,FT,Data Scientist,9727,0,0
+197,SE,FT,Data Analyst,52500,0,0
+198,SE,FT,Data Engineer,63000,2,0
+199,EN,FT,Data Engineer,12000,0,0
+200,MI,FT,Data Analyst,16414,2,0
+201,MI,FT,Data Analyst,85066,0,0
+202,SE,FT,Data Analyst,60000,0,0
+203,MI,FT,Data Analyst,95000,2,0
+204,SE,FT,Data Analyst,93919,2,0
+205,SE,FT,Data Analyst,51962,2,0
+206,SE,FT,Data Scientist,90000,2,0
+207,MI,FT,Machine Learning Engineer,36000,2,0
+208,MI,FT,Machine Learning Engineer,97218,0,0
+209,SE,FT,Machine Learning Engineer,53654,2,0
+210,MI,FT,Data Engineer,66837,2,0
+211,MI,FT,Data Engineer,63192,2,0
+212,MI,FT,Data Analyst,60761,0,0
+213,MI,FT,Data Engineer,66531,2,0
+214,MI,FT,Data Engineer,59020,2,0
+215,EN,FT,Data Scientist,12767,1,0
+216,EN,FT,Data Engineer,26827,2,0
+217,MI,FT,Data Scientist,85000,0,0
+218,MI,FT,Data Scientist,70000,0,0
+219,MI,FT,Data Scientist,23000,2,0
+220,SE,FT,Data Analyst,94000,0,0
+221,MI,FT,Data Analyst,61200,0,0
+222,EN,FT,Data Engineer,66970,1,0
+223,SE,FT,Data Scientist,63312,1,0
+224,SE,FT,Data Analyst,87000,2,0
+225,MI,FT,Data Scientist,60795,1,0
+226,EN,FT,Data Analyst,30000,2,0
+227,SE,FT,Data Engineer,94000,2,0
+228,SE,FT,Data Engineer,90000,2,0
+229,EN,FT,Data Scientist,74540,0,0
+230,MI,FT,Data Analyst,79000,0,0
+231,SE,FT,Machine Learning Engineer,84053,1,0
+232,MI,FT,Machine Learning Engineer,50000,0,0
+233,SE,FT,Data Analyst,74178,0,0
+234,SE,FT,Data Engineer,85000,2,0
+235,EN,FT,Data Scientist,12888,1,0
+236,MI,FT,Data Analyst,52500,0,0
+237,SE,FT,Data Scientist,84000,2,0
+238,EN,FT,Data Analyst,48000,1,0
+239,MI,FT,Data Scientist,80000,2,0
+240,EN,FT,Data Analyst,12877,1,0
+241,EN,FT,Machine Learning Engineer,6304,0,0
+242,MI,FT,Data Analyst,17509,1,0
+243,SE,FT,Data Scientist,77262,0,0
+244,SE,FT,Data Scientist,38631,0,0
+245,MI,FT,Data Scientist,53654,1,0
+246,SE,FT,Data Analyst,51508,0,0
+247,SE,FT,Data Analyst,40777,0,0
+248,MI,FT,Data Engineer,95000,2,0
+249,SE,FT,Data Scientist,94000,0,0
+250,MI,FT,Data Scientist,24740,1,0
+251,MI,FT,Machine Learning Engineer,15897,2,0
+252,SE,FT,Data Engineer,94000,0,0
+253,SE,FT,Machine Learning Engineer,77262,0,0
+254,SE,FT,Machine Learning Engineer,38631,0,0
+255,MI,FT,Data Analyst,78990,0,0
+256,MI,FT,Data Analyst,43809,0,0
+257,MI,FT,Machine Learning Engineer,87000,0,0
+258,EN,FT,Data Scientist,50000,2,0
+259,MI,FT,Data Engineer,95000,2,0
+260,MI,FT,Data Engineer,80000,2,0
+261,MI,FT,Data Analyst,72000,0,0
+262,MI,FT,Data Engineer,70000,0,0
+263,SE,FT,Data Engineer,96100,2,0
+264,SE,FT,Data Scientist,72000,0,0
+265,MI,FT,Machine Learning Engineer,72914,0,0
+266,EN,PT,Data Analyst,25216,2,0
+267,MI,FT,Machine Learning Engineer,67141,0,0
+268,SE,FT,Data Engineer,69751,0,0
+269,SE,FT,Data Engineer,37558,0,0
+270,SE,FT,Data Scientist,54094,2,0
+271,MI,FT,Data Analyst,18314,1,0
+272,SE,FT,Data Analyst,64000,2,0
+273,MI,FT,Machine Learning Engineer,75344,2,0
+274,MI,FT,Machine Learning Engineer,63192,2,0
+275,MI,FT,Machine Learning Engineer,58331,2,0
+276,MI,FT,Machine Learning Engineer,46178,2,0
+277,MI,FT,Data Analyst,14307,2,0
+278,MI,FT,Data Scientist,13989,2,0
+279,MI,FT,Data Scientist,90000,0,0
+280,SE,FT,Data Scientist,94500,0,0
+281,SE,FT,Data Scientist,51000,2,0
+282,EN,FT,Data Scientist,40000,2,0
+283,EN,FT,Machine Learning Engineer,40000,2,0
+284,SE,FT,Data Engineer,63000,2,0
+285,MI,FT,Data Scientist,94560,2,0
+286,MI,FT,Data Scientist,52533,2,0
+287,EN,FT,Machine Learning Engineer,40000,2,0
+288,SE,FT,Data Scientist,56723,0,0
+289,MI,FT,Data Engineer,95000,0,0
+290,EN,FT,Data Scientist,24165,1,0
+291,EN,FT,Data Engineer,85000,0,0
+292,EN,FT,Data Engineer,65000,0,0
+293,MI,FT,Data Scientist,92350,0,0
+294,MI,FT,Data Scientist,67723,0,0
+295,MI,FT,Data Engineer,70000,0,0
+296,SE,FT,Data Engineer,75000,0,0
+297,MI,FT,Data Analyst,75000,2,0
+298,MI,FT,Data Analyst,60000,2,0
+299,EN,FT,Machine Learning Engineer,10000,1,0
+300,MI,FT,Data Scientist,31795,2,0
+301,MI,FT,Machine Learning Engineer,44365,2,0
+302,MI,FT,Data Engineer,92350,2,0
+303,MI,FT,Data Engineer,73880,2,0
+304,SE,FT,Data Analyst,95000,0,0
+305,SE,FT,Data Engineer,78000,0,0
+306,SE,FT,Data Engineer,73546,0,0
+307,SE,FT,Data Engineer,36773,0,0
+308,MI,FT,Data Engineer,35610,1,0
+309,SE,FT,Data Engineer,95000,0,0
+310,SE,FT,Data Scientist,47280,0,0
+311,SE,FT,Data Scientist,37824,0,0
+312,SE,FT,Data Analyst,81666,2,0
+313,EN,FT,Data Analyst,55000,0,0
+314,EN,FT,Data Analyst,48000,0,0
+315,MI,FT,Machine Learning Engineer,58837,2,0
+316,MI,FT,Data Analyst,66100,2,0
+317,MI,FT,Data Engineer,80000,2,0
+318,MI,FT,Data Analyst,55410,0,0
+319,SE,FT,Data Analyst,50432,0,0
+320,SE,FT,Data Analyst,39925,0,0
+321,EN,FT,Data Analyst,60938,0,0
+322,SE,FT,Machine Learning Engineer,10000,1,0
+323,EN,FT,Data Analyst,50000,1,0
+324,EN,FT,Data Scientist,74540,0,0
+325,MI,FT,Data Analyst,65000,2,0
+326,MI,FT,Data Analyst,16904,1,0
+327,EN,FT,Machine Learning Engineer,12000,2,0
+328,SE,FT,Data Engineer,68293,0,0
+329,SE,FT,Data Analyst,70000,0,0
+330,SE,FT,Data Scientist,81500,0,0
+331,SE,FT,Data Analyst,89200,2,0
+332,MI,FT,Machine Learning Engineer,90000,0,0
+333,SE,FT,Data Analyst,65000,2,0
+334,SE,FT,Data Analyst,55000,2,0
+335,MI,FT,Data Scientist,63040,2,0
+336,SE,FT,Data Engineer,70000,0,0
+337,SE,FT,Data Scientist,95000,0,0
+338,SE,FT,Data Engineer,99000,0,0
+339,MI,FT,Data Engineer,79178,0,0
+340,MI,FT,Data Scientist,70186,0,0
+341,MI,FT,Data Scientist,51716,0,0
+342,MI,FT,Data Analyst,95000,0,0
+343,EN,FT,Data Analyst,13000,2,0
+344,EN,FL,Data Analyst,50000,2,0
+345,MI,FT,Data Engineer,75000,2,0
+346,SE,FT,Data Scientist,70000,0,0
+347,EN,FT,Machine Learning Engineer,20000,0,0
+348,MI,FT,Data Scientist,64090,0,0
+349,MI,FT,Data Scientist,60938,0,0
+350,MI,FT,Data Scientist,90000,2,0
+351,SE,FT,Data Analyst,96000,2,0
+352,SE,FT,Data Analyst,92350,0,0
+353,SE,FT,Data Analyst,70186,0,0
+354,SE,FT,Data Analyst,70000,0,0
+355,SE,FT,Machine Learning Engineer,73546,2,0
+356,SE,FT,Data Engineer,42026,0,0
+357,EN,FT,Machine Learning Engineer,66192,1,0
+358,EN,FT,Machine Learning Engineer,50000,2,0
+359,MI,FT,Data Analyst,80000,2,0
+360,EN,FT,Data Scientist,27317,1,0
+361,MI,FT,Data Engineer,90000,2,0
+362,MI,FT,Machine Learning Engineer,86193,2,0
+363,MI,FT,Machine Learning Engineer,49253,2,0
+364,MI,FT,Data Analyst,73880,0,0
+365,MI,FT,Data Analyst,65000,0,0
+366,SE,FT,Data Engineer,63040,0,0
+367,SE,FT,Data Engineer,36773,0,0
+368,SE,FT,Data Analyst,68293,0,0
+369,MI,FT,Data Engineer,80000,0,0
+370,MI,FT,Data Engineer,65000,0,0
+371,SE,FT,Data Engineer,61566,2,0
+372,SE,FT,Data Engineer,43096,2,0
+373,EN,FT,Data Scientist,80000,0,0
+374,MI,FL,Machine Learning Engineer,45555,1,0
+375,EN,FT,Data Scientist,17684,2,0
+376,MI,FT,Machine Learning Engineer,80036,0,0
+377,SE,FT,Data Scientist,93800,0,0
+378,EN,PT,Data Analyst,12000,2,0
+379,EN,FT,Machine Learning Engineer,33000,2,0
+380,EN,FT,Data Scientist,34672,2,0
+381,MI,FT,Data Analyst,79000,0,0
+382,MI,FT,Data Scientist,89306,1,0
+383,EN,FT,Data Engineer,77300,2,0
+384,EN,FT,Data Engineer,45600,2,0
+385,SE,FT,Data Engineer,12608,2,0
+386,MI,FT,Data Scientist,85000,2,0
+387,MI,FT,Data Scientist,78000,2,0
+388,EN,FT,Data Engineer,61566,2,0
+389,EN,FT,Data Engineer,49253,2,0
+390,MI,FT,Data Scientist,57872,1,0
+391,EN,FT,Data Analyst,64000,2,0
+392,EN,FT,Data Scientist,39925,1,0
+393,EN,FT,Data Analyst,76000,1,0
+394,SE,FT,Data Analyst,92350,0,0
+395,SE,FT,Data Analyst,80000,0,0
+396,SE,FT,Data Analyst,52500,0,0
+397,SE,FT,Data Analyst,92250,0,0
+398,SE,FT,Data Engineer,97000,2,0
+399,SE,FT,Data Engineer,90000,2,0
+400,MI,FT,Data Analyst,80000,0,0
+401,MI,FT,Data Analyst,52500,0,0
+402,SE,FT,Data Engineer,81500,0,0
+403,SE,FT,Data Engineer,70000,0,0
+404,SE,FT,Data Analyst,36773,0,0
+405,MI,FT,Data Scientist,30000,2,0
+406,MI,FT,Data Analyst,78000,2,0
+407,MI,FT,Data Analyst,48000,2,0
+408,MI,FT,Data Engineer,78000,2,0
+409,MI,FT,Data Engineer,42000,2,0
+410,MI,FT,Data Analyst,78000,2,0
+411,MI,FT,Data Analyst,48000,2,0
+412,MI,FT,Data Scientist,84000,2,0
+413,MI,FT,Data Scientist,54000,2,0
+414,EN,FT,Data Scientist,80000,2,0
+415,EN,FT,Data Scientist,73742,2,0
+416,EN,FT,Data Scientist,33246,1,0
+417,EN,FT,Data Analyst,5409,1,0
+418,MI,FT,Data Engineer,75050,1,0
+419,SE,FT,Data Scientist,8000,2,0
+420,SE,FT,Data Scientist,38000,2,0
+421,MI,FT,Data Analyst,85000,0,0
+422,MI,FT,Data Analyst,65000,0,0
+423,MI,FT,Data Engineer,92350,0,0
+424,SE,FT,Data Scientist,50000,2,0
+425,SE,FT,Data Scientist,88100,0,0
+426,SE,FT,Data Scientist,55000,2,0
+427,SE,FT,Data Analyst,85700,0,0
+428,SE,FT,Data Engineer,50000,2,0
+429,MI,FT,Machine Learning Engineer,98200,2,0
+430,SE,FT,Data Analyst,95000,2,0
+431,SE,FT,Data Engineer,66000,2,0
+432,MI,FT,Data Engineer,98000,0,0
+433,MI,FT,Data Analyst,62000,0,0
+434,EN,FT,Data Analyst,57000,2,0
+435,MI,FT,Data Scientist,83171,0,0
+436,SE,FT,Data Engineer,38154,2,0
+437,SE,FT,Data Engineer,73546,0,0
+438,SE,FT,Data Engineer,42026,0,0
+439,MI,FT,Data Scientist,75648,2,0
+440,SE,FT,Machine Learning Engineer,69344,2,0
+441,MI,FT,Machine Learning Engineer,5132,2,0
+442,SE,CT,Data Analyst,90000,2,0
+443,MI,FT,Data Scientist,84053,0,0
+444,MI,FT,Data Analyst,85000,2,0
+445,MI,FT,Data Analyst,45050,1,0
+446,EN,FT,Data Analyst,42028,1,0
+447,EN,FT,Data Analyst,20000,1,0
+448,SE,FT,Data Engineer,85000,2,0
+449,SE,FT,Data Engineer,63000,2,0
+450,MI,FT,Data Scientist,10000,0,0
+451,EN,FT,Data Scientist,50000,2,0
+452,SE,FT,Data Analyst,99750,2,0
+453,SE,FT,Data Analyst,68400,2,0
+454,SE,FT,Data Analyst,99000,0,0
+455,SE,FT,Machine Learning Engineer,84000,2,0
+456,MI,FT,Data Engineer,60000,2,0
+457,MI,FT,Data Engineer,80036,2,0
+458,MI,FT,Data Engineer,67723,2,0
+459,EN,FT,Data Scientist,22892,1,0
+460,EN,FT,Data Scientist,31520,2,0
+461,SE,FT,Data Engineer,80000,2,0
+462,EN,FT,Data Analyst,8050,2,0
+463,MI,CT,Machine Learning Engineer,60000,2,0
+464,SE,FT,Machine Learning Engineer,63040,1,0
+465,EN,FT,Data Analyst,50000,2,0
+466,EN,FT,Machine Learning Engineer,20000,1,0
+467,EN,FT,Machine Learning Engineer,15000,2,0
+468,EN,FT,Data Scientist,93000,0,0
+469,EN,FT,Data Scientist,73000,0,0
+470,EN,FT,Data Analyst,7799,2,0
+471,SE,FT,Data Scientist,57786,1,0
+472,EN,FT,Data Engineer,45390,1,0
+473,MI,FT,Data Analyst,97500,2,0
+474,MI,FT,Data Scientist,73546,1,0
+475,EN,FT,Data Scientist,50000,1,0
+476,EN,FT,Data Analyst,6359,2,0
+477,MI,FT,Data Analyst,75000,0,0
+478,MI,FT,Data Engineer,84053,2,0
+479,MI,FT,Data Engineer,73546,2,0
+480,MI,FT,Data Engineer,98506,2,0
+481,MI,FT,Data Engineer,86193,2,0
+482,MI,FT,Data Engineer,84053,2,0
+483,MI,FT,Data Engineer,73546,2,0
+484,SE,FT,Data Analyst,80041,2,0
+485,SE,FT,Data Engineer,82280,2,0
+486,EN,FT,Data Scientist,31520,1,0
+487,SE,FT,Data Analyst,81000,2,0
+488,SE,FT,Data Analyst,66000,2,0
+489,EN,FT,Data Analyst,46000,2,0
+490,EN,FT,Data Engineer,80000,2,0
+491,SE,FT,Data Analyst,63000,0,0
+492,EN,PT,Machine Learning Engineer,19073,1,0
+493,SE,FT,Data Analyst,95000,2,0
+494,SE,FT,Data Analyst,70000,2,0
+495,MI,FT,Data Scientist,75000,2,0
+496,MI,CT,Data Analyst,7500,1,0
+497,SE,FT,Data Analyst,50000,2,0
+498,MI,FT,Data Analyst,53368,2,0
+499,SE,FT,Data Scientist,29944,1,0
+500,SE,FT,Data Engineer,90000,0,0
+501,MI,FT,Data Scientist,54634,2,0
+502,SE,FT,Data Engineer,63000,0,0
+503,SE,FT,Machine Learning Engineer,95386,1,0
+504,EN,FT,Data Scientist,82000,0,0
+505,EN,FT,Data Analyst,6270,2,0
+506,MI,FT,Data Scientist,89306,0,0
+507,SE,FT,Data Engineer,63000,0,0
+508,SE,FT,Machine Learning Engineer,85000,2,0
+509,MI,FT,Data Engineer,98506,0,0
+510,MI,FT,Data Engineer,73880,0,0
+511,SE,FT,Data Analyst,99450,2,0
+512,EN,FT,Machine Learning Engineer,55410,2,0
+513,SE,FT,Data Analyst,86193,0,0
+514,SE,FT,Data Analyst,61566,0,0
+515,MI,FT,Data Analyst,5723,2,0
+516,MI,FT,Data Analyst,50432,2,0
+517,EN,FT,Data Analyst,50000,2,0
+518,EN,FT,Data Scientist,84053,2,0
+519,MI,FT,Data Scientist,61566,1,0
+520,SE,FT,Data Engineer,63000,0,0
+521,MI,FT,Data Engineer,24000,0,0
+522,EN,FT,Machine Learning Engineer,12171,2,0
+523,MI,FT,Data Scientist,53416,2,0
+524,EN,FT,Data Scientist,50000,1,0
+525,EX,FT,Data Scientist,84053,0,0
+526,SE,FT,Data Analyst,48000,2,0
+527,EN,FT,Data Analyst,55000,2,0
+528,SE,FT,Data Scientist,77119,2,0
+529,EN,FT,Data Scientist,52008,1,0
+530,MI,FL,Data Scientist,30523,2,0
+531,SE,FT,Data Engineer,99100,0,0
+532,MI,FT,Data Analyst,54000,0,0
+533,SE,FT,Data Engineer,80000,0,0
+534,EN,FT,Machine Learning Engineer,30000,2,0
+535,EN,FT,Data Analyst,28368,1,0
+536,MI,FT,Data Engineer,91118,0,0
+537,MI,FT,Data Engineer,61566,0,0
+538,MI,FT,Data Scientist,60938,2,0
+539,MI,FT,Data Scientist,80036,1,0
+540,SE,FT,Data Analyst,93700,2,0
+541,SE,FT,Data Scientist,92000,2,0
+542,EN,FT,Data Engineer,86000,2,0
+543,EN,FT,Data Engineer,13493,2,0
+544,MI,FT,Data Scientist,25000,1,0
+545,MI,FT,Data Analyst,65257,1,0
+546,MI,FT,Data Scientist,22800,2,0
+547,EN,FT,Data Analyst,22809,2,0
+548,EN,FT,Data Analyst,15000,0,0
+549,EN,FT,Machine Learning Engineer,83000,0,0
+550,SE,FT,Data Analyst,90320,0,0
+551,MI,FT,Data Engineer,65666,1,0
+552,MI,FT,Machine Learning Engineer,92350,0,0
+553,SE,FT,Data Analyst,90320,2,0
+554,EN,FT,Data Scientist,49268,0,0
+555,SE,FT,Data Analyst,81666,0,0
+556,MI,FT,Machine Learning Engineer,84053,2,0
+557,MI,FT,Data Engineer,52533,0,0
+558,EX,FT,Machine Learning Engineer,76309,1,0
+559,EN,FT,Machine Learning Engineer,35093,2,0
+560,MI,FT,Data Analyst,49253,2,0
+561,MI,FT,Data Analyst,36940,2,0
+562,MI,FT,Data Analyst,42026,2,0
+563,MI,FT,Data Analyst,31520,2,0
+564,MI,FT,Data Analyst,42026,2,0
+565,MI,FT,Data Analyst,31520,2,0
+566,MI,FT,Data Engineer,63040,2,0
+567,MI,FT,Data Engineer,47280,2,0
+568,MI,FT,Data Scientist,43096,0,0
+569,MI,FT,Data Engineer,63040,2,0
+570,MI,FT,Data Engineer,47280,2,0
+571,MI,FT,Data Engineer,55410,2,0
+572,MI,FT,Machine Learning Engineer,51064,1,0
+573,SE,FT,Machine Learning Engineer,60000,2,0
+574,MI,FT,Data Engineer,82900,0,0
+575,MI,FT,Data Engineer,63900,0,0
+576,SE,FT,Data Scientist,80000,0,0
+577,MI,FT,Data Analyst,58000,0,0
+578,MI,FT,Data Scientist,61566,0,0
+579,MI,FT,Data Scientist,36940,0,0
+580,MI,FT,Data Engineer,49253,0,0
+581,MI,FT,Data Scientist,90000,0,0
+582,SE,FT,Data Analyst,84900,2,0
+583,SE,FT,Data Scientist,99360,2,0
+584,SE,FT,Data Scientist,98506,0,0
+585,EN,FT,Data Engineer,43096,2,0
+586,SE,FT,Data Engineer,73880,0,0
+587,SE,FT,Data Engineer,61566,0,0
+588,SE,FT,Data Engineer,90700,2,0
+589,SE,FT,Data Analyst,61300,2,0
+590,SE,FT,Data Scientist,95550,0,0
+591,SE,FT,Data Engineer,93700,2,0
+592,SE,FT,Data Engineer,70500,0,0
+593,SE,FT,Data Engineer,54000,0,0
+594,SE,FT,Data Analyst,99050,2,0
+595,MI,FT,Data Analyst,85000,0,0
+596,MI,FT,Data Analyst,75000,0,0
+597,MI,FT,Data Engineer,99100,0,0
+598,MI,FT,Data Analyst,61566,0,0
+599,MI,FT,Data Analyst,43096,0,0
+600,SE,FT,Data Analyst,80000,2,0
+601,SE,FT,Data Analyst,60000,2,0
+602,EN,FT,Data Analyst,67000,0,0
+603,EN,FT,Data Analyst,52000,0,0
+604,SE,FT,Data Analyst,69000,2,0
+605,SE,FT,Data Engineer,25000,2,0
+606,MI,FT,Data Analyst,50000,2,0
+607,MI,FT,Data Scientist,86193,0,0
+608,SE,FT,Machine Learning Engineer,65000,2,0
+609,MI,FT,Machine Learning Engineer,76814,2,0
+610,MI,FT,Data Analyst,17805,2,0
+611,MI,FT,Data Scientist,30523,2,0
+612,MI,FT,Machine Learning Engineer,55685,1,0
+613,MI,PT,Data Engineer,52533,1,0
+614,EN,FT,Data Scientist,17805,2,0
+615,MI,FT,Data Scientist,75000,2,0
+616,MI,FT,Data Analyst,69133,1,0
+617,EN,FT,Data Engineer,65000,2,0
+618,SE,FT,Machine Learning Engineer,68293,2,0
+619,MI,FT,Data Scientist,67597,2,0
+620,EN,FT,Machine Learning Engineer,10000,2,0
+621,MI,FT,Data Analyst,20000,2,0
+622,EN,FT,Data Scientist,51081,2,0
+623,MI,FT,Machine Learning Engineer,83864,2,0
+624,EN,FT,Data Scientist,40000,2,0
+625,MI,FT,Data Scientist,31520,2,0
+626,SE,FT,Machine Learning Engineer,59888,2,0
+627,EN,FT,Data Engineer,54742,2,0
+628,SE,FT,Data Scientist,89306,1,0
+629,EN,FT,Data Scientist,83171,1,0
+630,SE,FT,Machine Learning Engineer,76814,2,0
+631,MI,FT,Data Scientist,33609,2,0
+632,MI,FT,Data Analyst,75000,2,0
+633,MI,FT,Data Analyst,20000,0,0
+634,EN,CT,Data Scientist,30469,2,0
+635,MI,FT,Data Scientist,69999,1,0
+636,EN,FT,Data Engineer,55475,2,0
+637,MI,FT,Data Scientist,61989,0,0
+638,EN,FT,Data Scientist,80000,2,0
+639,MI,FT,Data Engineer,65141,2,0
+640,MI,FT,Data Scientist,48000,2,0
+641,EN,FT,Data Analyst,20000,0,0
+642,MI,FT,Machine Learning Engineer,77364,1,0
+643,MI,FT,Machine Learning Engineer,63711,1,0
+644,MI,FT,Data Analyst,90000,2,0
+645,SE,FT,Machine Learning Engineer,24000,2,0
+646,MI,FT,Data Scientist,38400,2,0
+647,MI,FT,Data Scientist,82500,2,0
+648,EN,FT,Data Scientist,49646,1,0
+649,SE,FT,Data Scientist,40570,1,0
+650,SE,FT,Machine Learning Engineer,84053,0,0
+651,EN,FT,Machine Learning Engineer,20000,2,0
+652,MI,FT,Data Scientist,9466,0,0
+653,EN,PT,Data Analyst,10354,1,0
+654,EN,FT,Machine Learning Engineer,21013,2,0
+655,EN,FT,Data Analyst,50000,2,0
+656,MI,FT,Data Engineer,60000,1,0
+657,SE,FT,Machine Learning Engineer,82744,1,0
+658,MI,FT,Data Engineer,59303,2,0
+659,MI,FT,Data Scientist,62649,1,0
+660,MI,FT,Data Engineer,82528,2,0
+661,EN,FT,Data Analyst,55000,1,0
+662,EN,FT,Data Engineer,80000,2,0
+663,EN,FT,Data Engineer,70000,2,0
+664,EN,FT,Data Scientist,63831,1,0
+665,SE,FT,Data Scientist,68428,2,0
+666,EX,FT,Data Scientist,85000,0,0
+667,MI,FT,Data Analyst,46759,1,0
+668,MI,FT,Data Engineer,74130,1,0
+669,EN,FT,Data Scientist,13400,2,0
+670,MI,FT,Data Scientist,75774,2,0
+671,MI,FT,Data Engineer,90000,2,0
+672,EN,FT,Data Analyst,90000,2,1
+673,EN,FT,Data Analyst,60000,2,0
+674,MI,FT,Data Scientist,50000,2,0
+675,EN,PT,Data Scientist,12000,2,0
+676,MI,PT,Machine Learning Engineer,5409,1,0
+677,MI,FT,Data Scientist,54238,1,0
+678,MI,FT,Machine Learning Engineer,47282,2,0
+679,MI,FT,Data Engineer,28476,2,0
+680,EN,FT,Data Scientist,82528,1,0
+681,EN,FT,Data Analyst,59102,1,0
+682,SE,FT,Data Analyst,80000,2,0
+683,EN,FT,Data Analyst,10000,2,0
+684,SE,FT,Data Analyst,79197,2,0
+685,EN,FT,Data Analyst,80000,2,0
+686,MI,FT,Data Scientist,45760,2,0
+687,SE,FT,Data Scientist,53192,1,0
+688,EX,FT,Data Engineer,79833,1,0
+689,EN,FT,Data Scientist,76833,2,0
+690,MI,FT,Machine Learning Engineer,50180,0,0
+691,SE,FT,Data Analyst,88654,2,0
+692,SE,FT,Machine Learning Engineer,94564,1,0
+693,EN,FT,Data Engineer,30428,2,0
+694,MI,FT,Data Analyst,51519,1,0
+695,MI,FT,Data Analyst,36259,1,0
+696,EN,PT,Machine Learning Engineer,15966,2,0
+697,MI,FT,Machine Learning Engineer,95746,2,0
+698,EN,FT,Machine Learning Engineer,70000,2,0
+699,MI,FT,Data Scientist,76958,2,0
+700,MI,FT,Data Engineer,89294,1,0
+701,EN,FT,Data Scientist,29751,1,0
+702,MI,FT,Data Analyst,93000,2,0
+703,EN,FT,Data Scientist,28399,2,0
+704,SE,FT,Data Scientist,60757,1,0
+705,EN,FT,Data Scientist,90000,2,0
+706,MI,FT,Data Engineer,70139,1,0
+707,EN,FT,Data Analyst,6072,0,0
+708,SE,FT,Data Engineer,33511,0,0
+709,SE,FT,Data Engineer,96282,1,0
+710,MI,FT,Data Engineer,12103,0,0
+711,EN,FT,Data Scientist,36643,1,0
+712,MI,FT,Data Engineer,72212,1,0
+713,EN,FT,Data Analyst,91000,2,1
+714,SE,FT,Data Engineer,99703,1,0
+715,MI,FT,Data Analyst,80000,2,0
+716,EN,FT,Data Engineer,21637,1,0
+717,EN,FT,Data Scientist,42000,1,0
+718,MI,FT,Data Scientist,63810,2,0
+719,MI,FT,Data Scientist,79833,0,0
+720,EN,FT,Data Engineer,72500,2,0
+721,MI,PT,Data Engineer,69741,2,0
+722,SE,FT,Data Scientist,20171,1,0
+723,SE,FT,Data Scientist,55000,2,0
+724,EN,FT,Data Scientist,58000,1,0
+725,SE,FT,Data Scientist,77684,1,0
+726,EN,FT,Machine Learning Engineer,85000,2,0
+727,EN,FT,Data Scientist,76833,0,0
+728,EN,FT,Data Analyst,72000,2,0
+729,EN,FT,Data Engineer,65013,1,0
+730,MI,FT,Data Engineer,28016,2,0
+731,MI,FT,Data Engineer,93150,0,0
+732,MI,FT,Data Scientist,25532,2,0
+733,SE,FT,Machine Learning Engineer,66265,0,0
+734,MI,FT,Data Scientist,16904,2,0
+735,SE,FT,Data Analyst,63831,1,0
+736,EN,FT,Data Engineer,16228,2,0
+737,SE,FT,Data Analyst,71786,2,0
+738,MI,FT,Data Scientist,35735,1,0
+739,EN,FT,Machine Learning Engineer,24823,1,0
+740,SE,FT,Data Scientist,54094,1,0
+741,SE,FT,Machine Learning Engineer,24342,2,0
+742,EN,FT,Data Analyst,9272,2,0
+743,SE,FT,Data Scientist,96113,1,0
+744,EN,FT,Machine Learning Engineer,21844,1,0
+745,EN,FT,Data Scientist,51321,0,0
+746,MI,FT,Data Scientist,40481,0,0
+747,EX,FT,Data Scientist,69741,2,0
+748,SE,FT,Data Analyst,50000,2,0
+749,EN,FT,Data Scientist,39916,0,0
+750,MI,FT,Data Analyst,87000,2,0
+751,MI,FT,Data Engineer,26005,0,0
+752,MI,FT,Data Scientist,90734,1,0
+753,MI,FT,Data Engineer,22611,0,0
+754,MI,FT,Data Scientist,5679,2,0
+755,EN,FT,Machine Learning Engineer,81000,1,0
+756,MI,FT,Data Scientist,40038,2,0
+757,EN,FT,Data Scientist,90000,2,0
+758,MI,FT,Data Scientist,61467,1,0
+759,MI,FT,Data Scientist,37825,2,0
+760,MI,FT,Data Analyst,85000,2,0
+761,MI,FT,Data Scientist,56256,1,0
+762,MI,FT,Data Scientist,33808,0,0
+763,MI,FT,Machine Learning Engineer,46597,2,0
+764,MI,FT,Data Analyst,8000,1,0
+765,EN,FT,Data Engineer,41689,2,0
+766,MI,FT,Machine Learning Engineer,88654,2,0
+767,EN,FT,Data Scientist,5707,1,0
+768,MI,FT,Data Engineer,56000,2,0
+769,EN,PT,Machine Learning Engineer,28609,1,0
+770,MI,FT,Data Scientist,88654,1,0
+771,MI,FT,Data Analyst,6072,2,0
+772,SE,FT,Data Engineer,47899,1,0
+773,MI,FT,Data Analyst,98000,0,0
+774,MI,FT,Data Engineer,66022,1,0
+775,MI,FT,Data Scientist,56738,1,0
+776,MI,FT,Machine Learning Engineer,24823,1,0
+777,MI,FL,Data Engineer,20000,0,0
+778,EN,FT,Data Scientist,45896,1,0
+779,SE,FT,Data Scientist,50000,2,0
+780,MI,FT,Machine Learning Engineer,40189,2,0
+781,MI,FT,Data Scientist,12901,0,0
+782,EN,FT,Data Engineer,5882,0,0
+783,MI,FT,Data Scientist,42197,1,0
+784,EN,FT,Data Scientist,62726,1,0
+785,EN,PT,Data Scientist,21669,1,0
+786,SE,FT,Data Scientist,87738,2,0
+787,SE,FT,Data Analyst,61896,1,0
+788,MI,FL,Data Scientist,12000,1,0
+789,SE,FT,Data Engineer,76833,1,0
+790,MI,FT,Machine Learning Engineer,74000,1,0
+791,MI,FT,Data Engineer,18000,0,0
+792,SE,FL,Machine Learning Engineer,60000,2,0
+793,SE,FT,Machine Learning Engineer,18907,0,0
+794,EN,FT,Data Analyst,59102,2,0
+795,MI,FT,Data Scientist,38776,2,0
+796,MI,FT,Data Scientist,46809,2,0
+797,EN,FT,Data Scientist,18053,2,0
+798,SE,FT,Data Scientist,91237,0,0
+799,MI,FT,Data Scientist,62726,1,0
+800,MI,FT,Data Analyst,19609,2,0
+801,EN,PT,Data Scientist,12000,2,0
+802,MI,FT,Data Analyst,75000,0,0
+803,MI,FT,Data Analyst,62000,0,0
+804,MI,FT,Data Scientist,73000,0,0
+805,MI,FT,Data Engineer,45391,2,0
+806,SE,FT,Machine Learning Engineer,45618,2,0
+807,MI,FT,Data Engineer,28369,1,0
+808,SE,FT,Data Scientist,94665,1,0
+809,SE,FT,Data Scientist,175000,2,0
+810,SE,FT,Data Scientist,120000,2,0
+811,SE,FT,Data Scientist,222200,0,1
+812,SE,FT,Data Scientist,136000,0,0
+813,SE,FT,Data Scientist,219000,0,1
+814,SE,FT,Data Scientist,141000,0,0
+815,SE,FT,Data Scientist,147100,0,0
+816,SE,FT,Data Analyst,130000,2,0
+817,EN,FT,Data Scientist,213660,0,1
+818,EN,FT,Data Scientist,130760,0,1
+819,SE,FT,Data Engineer,147100,0,0
+820,SE,FT,Data Scientist,170000,0,0
+821,SE,FT,Data Scientist,150000,0,0
+822,MI,FT,Data Analyst,150000,2,1
+823,MI,FT,Data Analyst,110000,2,0
+824,SE,FT,Machine Learning Engineer,275000,0,1
+825,SE,FT,Machine Learning Engineer,174000,0,0
+826,SE,FT,Data Analyst,230000,2,1
+827,SE,FT,Data Analyst,143200,2,0
+828,SE,FT,Data Analyst,225000,0,1
+829,SE,FT,Data Analyst,156400,0,1
+830,SE,FT,Machine Learning Engineer,200000,0,0
+831,SE,FT,Machine Learning Engineer,130000,0,0
+832,SE,FT,Data Engineer,253200,0,1
+833,SE,FT,Machine Learning Engineer,342810,0,1
+834,SE,FT,Machine Learning Engineer,184590,0,0
+835,MI,FT,Data Engineer,162500,0,1
+836,MI,FT,Data Engineer,130000,0,0
+837,MI,FT,Data Analyst,105380,0,0
+838,EN,FT,Data Scientist,204620,0,1
+839,EN,FT,Data Scientist,110680,0,0
+840,SE,FT,Data Engineer,270703,0,1
+841,SE,FT,Data Engineer,221484,0,1
+842,SE,FT,Data Scientist,212750,2,0
+843,SE,FT,Data Scientist,185000,2,0
+844,SE,FT,Data Scientist,262000,2,1
+845,SE,FT,Data Scientist,245000,2,1
+846,SE,FT,Data Scientist,275300,2,1
+847,SE,FT,Data Scientist,183500,2,0
+848,SE,FT,Data Scientist,218500,2,1
+849,SE,FT,Data Scientist,199098,2,0
+850,SE,FT,Data Engineer,203300,2,1
+851,SE,FT,Data Engineer,123600,2,0
+852,SE,FT,Machine Learning Engineer,189110,0,0
+853,SE,FT,Machine Learning Engineer,139000,0,0
+854,EX,FT,Data Scientist,258750,0,0
+855,EX,FT,Data Scientist,185000,0,0
+856,SE,FT,Data Engineer,231500,2,1
+857,SE,FT,Data Engineer,166000,2,0
+858,SE,FT,Data Scientist,172500,2,0
+859,SE,FT,Data Scientist,110500,2,0
+860,SE,FT,Data Engineer,238000,0,1
+861,SE,FT,Data Engineer,176000,0,0
+862,SE,FT,Data Engineer,237000,2,1
+863,SE,FT,Data Engineer,201450,2,1
+864,SE,FT,Data Scientist,309400,0,1
+865,SE,FT,Data Scientist,159100,0,0
+866,SE,FT,Data Engineer,115000,0,0
+867,SE,FT,Data Scientist,237000,2,1
+868,SE,FT,Data Scientist,201450,2,0
+869,SE,FT,Machine Learning Engineer,280000,0,1
+870,SE,FT,Machine Learning Engineer,210000,0,0
+871,SE,FT,Data Engineer,280100,2,1
+872,SE,FT,Data Engineer,168100,2,0
+873,SE,FT,Data Engineer,193500,2,1
+874,SE,FT,Data Engineer,139000,2,0
+875,SE,FT,Machine Learning Engineer,150000,2,0
+876,EN,FT,Machine Learning Engineer,300000,1,1
+877,SE,FT,Data Analyst,185900,0,1
+878,SE,FT,Data Analyst,129300,0,0
+879,SE,FT,Data Engineer,225000,2,1
+880,SE,FT,Data Engineer,175000,2,0
+881,SE,FT,Data Engineer,185000,0,0
+882,SE,FT,Data Engineer,140000,0,0
+883,SE,FT,Data Scientist,105000,0,0
+884,EN,FT,Machine Learning Engineer,163196,0,1
+885,EN,FT,Machine Learning Engineer,145885,0,1
+886,SE,FT,Data Engineer,217000,2,1
+887,SE,FT,Data Engineer,185000,2,0
+888,SE,FT,Data Analyst,202800,0,1
+889,SE,FT,Data Analyst,104300,0,0
+890,SE,FT,Data Analyst,145000,0,0
+891,SE,FT,Data Engineer,165000,0,0
+892,SE,FT,Data Engineer,132300,0,0
+893,SE,FT,Data Engineer,179170,0,0
+894,SE,FT,Data Analyst,152500,0,1
+895,SE,FT,Data Analyst,116450,0,0
+896,SE,FT,Data Engineer,247300,0,1
+897,SE,FT,Data Engineer,133800,0,0
+898,SE,FT,Machine Learning Engineer,203000,0,0
+899,SE,FT,Machine Learning Engineer,133000,0,0
+900,EN,FT,Data Scientist,220000,1,1
+901,SE,FT,Data Scientist,120000,0,0
+902,SE,FT,Data Analyst,289800,0,1
+903,SE,FT,Data Analyst,214000,0,1
+904,SE,FT,Data Analyst,179820,0,1
+905,SE,FT,Data Analyst,143860,0,0
+906,SE,FT,Machine Learning Engineer,283200,2,1
+907,SE,FT,Machine Learning Engineer,188800,2,0
+908,SE,FT,Data Analyst,214200,0,1
+909,SE,FT,Data Engineer,185900,0,0
+910,SE,FT,Data Engineer,129300,0,0
+911,SE,FT,Data Engineer,252000,0,1
+912,SE,FT,Data Engineer,129000,0,0
+913,MI,FT,Data Analyst,155000,0,1
+914,MI,FT,Data Analyst,140000,0,1
+915,SE,FT,Data Engineer,161800,2,0
+916,SE,FT,Data Engineer,141600,2,0
+917,SE,FT,Machine Learning Engineer,342300,0,1
+918,SE,FT,Machine Learning Engineer,176100,0,0
+919,SE,FT,Data Scientist,138784,2,0
+920,SE,FT,Data Analyst,204500,0,1
+921,SE,FT,Data Analyst,138900,0,0
+922,SE,FT,Machine Learning Engineer,318300,2,1
+923,SE,FT,Machine Learning Engineer,212200,2,0
+924,SE,FT,Data Scientist,195000,0,0
+925,SE,FT,Data Scientist,160000,0,0
+926,SE,FT,Data Analyst,230000,0,1
+927,SE,FT,Data Analyst,143200,0,0
+928,MI,FT,Data Analyst,105000,1,0
+929,SE,FT,Data Engineer,145000,0,0
+930,SE,FT,Data Analyst,168400,0,1
+931,SE,FT,Data Analyst,105200,0,0
+932,SE,FT,Machine Learning Engineer,190000,0,0
+933,SE,FT,Machine Learning Engineer,150000,0,0
+934,SE,FT,Data Analyst,150000,2,1
+935,SE,FT,Data Analyst,120000,2,0
+936,SE,FT,Data Engineer,120000,0,0
+937,SE,FT,Data Engineer,241000,0,1
+938,SE,FT,Data Engineer,155000,0,0
+939,SE,FT,Data Engineer,220000,2,1
+940,SE,FT,Data Engineer,190000,2,1
+941,SE,FT,Data Engineer,160000,0,0
+942,MI,FT,Machine Learning Engineer,300000,0,1
+943,MI,FT,Machine Learning Engineer,250000,0,1
+944,SE,FT,Data Scientist,228000,0,1
+945,SE,FT,Data Scientist,186000,0,0
+946,SE,FT,Data Scientist,190000,0,0
+947,MI,FT,Machine Learning Engineer,230000,0,1
+948,MI,FT,Machine Learning Engineer,200000,0,1
+949,SE,FT,Data Engineer,180000,2,0
+950,SE,FT,Data Engineer,115000,2,0
+951,SE,FT,Data Engineer,200000,2,1
+952,EX,FT,Data Engineer,220000,0,0
+953,EX,FT,Data Engineer,205000,0,0
+954,MI,FT,Data Engineer,180000,0,1
+955,SE,FT,Data Engineer,200000,2,1
+956,SE,FT,Data Engineer,150000,2,0
+957,SE,FT,Machine Learning Engineer,215000,0,0
+958,SE,FT,Machine Learning Engineer,170000,0,0
+959,SE,FT,Machine Learning Engineer,247500,0,0
+960,SE,FT,Machine Learning Engineer,172200,0,0
+961,SE,FT,Data Scientist,224000,0,1
+962,SE,FT,Data Scientist,176000,0,0
+963,SE,FT,Data Analyst,120000,2,0
+964,SE,FT,Data Analyst,140000,0,0
+965,SE,FT,Data Analyst,120000,0,0
+966,SE,FT,Data Engineer,128000,0,0
+967,EX,FT,Data Scientist,329500,0,1
+968,EX,FT,Data Scientist,269600,0,0
+969,SE,FT,Data Scientist,250000,0,1
+970,SE,FT,Data Scientist,162500,0,0
+971,MI,FT,Machine Learning Engineer,200000,2,1
+972,EX,FT,Data Engineer,145000,0,0
+973,EX,FT,Data Engineer,115000,0,0
+974,SE,FT,Data Scientist,203500,0,0
+975,SE,FT,Data Scientist,152000,0,0
+976,SE,FT,Data Scientist,239000,0,1
+977,SE,FT,Data Scientist,122900,0,0
+978,SE,FT,Data Scientist,237000,0,1
+979,SE,FT,Data Scientist,145000,0,0
+980,SE,FT,Data Scientist,191765,0,0
+981,SE,FT,Data Scientist,134236,0,0
+982,SE,FT,Data Analyst,190000,2,1
+983,SE,FT,Data Analyst,112000,2,0
+984,SE,FT,Data Analyst,135000,0,0
+985,SE,FT,Data Analyst,105500,0,0
+986,SE,FT,Machine Learning Engineer,293000,0,1
+987,SE,FT,Machine Learning Engineer,185000,0,0
+988,SE,FT,Data Engineer,160000,2,0
+989,SE,FT,Data Scientist,175000,2,0
+990,SE,FT,Data Scientist,145000,2,0
+991,SE,FT,Data Analyst,200000,0,1
+992,SE,FT,Data Analyst,148500,0,0
+993,SE,FT,Data Engineer,240500,0,1
+994,SE,FT,Data Engineer,123700,0,0
+995,SE,FT,Data Analyst,152900,2,1
+996,SE,FT,Data Analyst,117100,2,0
+997,SE,FT,Data Analyst,173000,2,1
+998,SE,FT,Data Analyst,113000,2,0
+999,SE,FT,Data Scientist,260000,0,1
+1000,EX,FT,Data Engineer,175000,0,0
+1001,EX,FT,Data Engineer,110000,0,0
+1002,SE,FT,Data Scientist,130000,2,0
+1003,SE,FT,Data Scientist,110000,2,0
+1004,SE,FT,Data Scientist,205000,2,0
+1005,SE,FT,Data Scientist,184000,2,0
+1006,SE,FT,Data Analyst,149500,2,0
+1007,SE,FT,Data Analyst,127075,2,0
+1008,SE,FT,Data Engineer,219535,2,1
+1009,SE,FT,Data Engineer,146115,2,0
+1010,SE,FT,Data Scientist,135000,0,0
+1011,SE,FT,Data Scientist,199000,0,0
+1012,SE,FT,Data Scientist,162000,0,0
+1013,EX,FT,Data Analyst,221000,2,1
+1014,EX,FT,Data Analyst,153000,2,0
+1015,SE,FT,Data Analyst,187000,0,1
+1016,SE,FT,Data Analyst,128000,0,0
+1017,SE,FT,Data Scientist,210000,0,0
+1018,SE,FT,Data Scientist,136000,0,0
+1019,SE,FT,Data Engineer,179000,0,0
+1020,SE,FT,Data Engineer,109000,0,0
+1021,SE,FT,Data Scientist,245000,0,1
+1022,SE,FT,Data Scientist,180000,0,0
+1023,SE,FT,Data Analyst,142000,2,0
+1024,SE,FT,Data Engineer,198800,0,1
+1025,SE,FT,Data Engineer,105200,0,0
+1026,SE,FT,Data Analyst,125000,2,0
+1027,SE,FT,Data Analyst,112000,2,0
+1028,SE,FT,Data Scientist,210000,0,0
+1029,SE,FT,Data Scientist,155000,0,0
+1030,SE,FT,Data Engineer,115000,2,0
+1031,SE,FT,Data Scientist,165000,0,0
+1032,SE,FT,Data Scientist,140000,0,0
+1033,SE,FT,Data Analyst,139000,0,0
+1034,SE,FT,Data Analyst,106000,0,0
+1035,SE,FT,Machine Learning Engineer,275000,0,1
+1036,MI,FT,Machine Learning Engineer,280700,2,1
+1037,MI,FT,Machine Learning Engineer,150450,2,0
+1038,SE,FT,Data Engineer,250500,0,1
+1039,SE,FT,Data Engineer,159500,0,0
+1040,EN,FT,Data Scientist,130001,2,1
+1041,SE,FT,Data Analyst,175000,2,1
+1042,SE,FT,Data Analyst,135000,2,0
+1043,SE,FT,Machine Learning Engineer,257000,0,1
+1044,SE,FT,Machine Learning Engineer,147000,0,0
+1045,SE,FT,Data Engineer,222000,2,1
+1046,SE,FT,Data Scientist,203000,2,0
+1047,SE,FT,Data Scientist,133200,2,0
+1048,SE,FT,Data Engineer,221000,0,1
+1049,SE,FT,Data Engineer,147000,0,0
+1050,SE,FT,Data Scientist,185900,0,0
+1051,SE,FT,Data Scientist,129300,0,0
+1052,SE,FT,Data Scientist,238000,2,1
+1053,SE,FT,Data Scientist,156000,2,0
+1054,SE,FT,Machine Learning Engineer,304000,2,1
+1055,SE,FT,Machine Learning Engineer,199000,2,0
+1056,SE,FT,Data Engineer,150000,0,0
+1057,SE,FT,Data Engineer,130000,0,0
+1058,SE,FT,Data Scientist,140000,2,0
+1059,SE,FT,Data Scientist,110000,2,0
+1060,MI,FT,Data Scientist,195895,0,1
+1061,MI,FT,Data Scientist,102772,0,0
+1062,SE,FT,Data Engineer,240000,0,1
+1063,SE,FT,Data Engineer,183600,0,0
+1064,MI,FT,Data Analyst,130000,0,1
+1065,SE,FT,Data Engineer,250000,0,1
+1066,SE,FT,Data Analyst,160000,2,1
+1067,SE,FT,Data Analyst,120000,2,0
+1068,SE,FT,Machine Learning Engineer,289076,0,1
+1069,SE,FT,Machine Learning Engineer,202353,0,0
+1070,SE,FT,Data Analyst,155000,0,1
+1071,SE,FT,Data Engineer,200000,0,1
+1072,SE,FT,Data Scientist,157750,2,0
+1073,SE,FT,Data Scientist,104650,2,0
+1074,MI,FT,Data Scientist,180000,2,1
+1075,MI,FT,Data Scientist,140000,2,0
+1076,EX,FT,Data Scientist,200000,0,0
+1077,EX,FT,Data Scientist,145000,0,0
+1078,MI,FT,Data Engineer,125000,0,0
+1079,SE,FT,Data Analyst,105000,2,0
+1080,EN,FT,Machine Learning Engineer,155000,0,1
+1081,EN,FT,Machine Learning Engineer,125000,0,0
+1082,SE,FT,Machine Learning Engineer,241000,0,0
+1083,SE,FT,Machine Learning Engineer,181000,0,0
+1084,SE,FT,Data Scientist,252000,0,1
+1085,SE,FT,Data Scientist,154000,0,0
+1086,EX,FT,Data Engineer,180000,0,0
+1087,EX,FT,Data Engineer,155000,0,0
+1088,SE,FT,Data Scientist,191765,0,0
+1089,SE,FT,Data Scientist,134236,0,0
+1090,SE,FT,Data Engineer,146000,0,0
+1091,SE,FT,Machine Learning Engineer,170000,0,0
+1092,SE,FT,Data Analyst,208450,2,1
+1093,SE,FT,Data Analyst,170550,2,1
+1094,SE,FT,Machine Learning Engineer,125000,0,0
+1095,MI,FT,Data Engineer,135000,0,0
+1096,MI,FT,Data Engineer,120000,0,0
+1097,SE,FT,Data Scientist,200000,2,0
+1098,SE,FT,Data Scientist,170000,2,0
+1099,SE,FT,Data Scientist,171250,0,0
+1100,SE,FT,Data Scientist,113750,0,0
+1101,SE,FT,Data Analyst,153600,0,1
+1102,SE,FT,Data Analyst,100500,0,0
+1103,SE,FT,Machine Learning Engineer,115000,2,0
+1104,MI,FT,Data Analyst,182500,0,1
+1105,MI,FT,Data Analyst,121500,0,1
+1106,SE,FT,Data Engineer,203100,0,1
+1107,SE,FT,Data Engineer,114500,0,0
+1108,SE,FT,Data Engineer,130000,2,0
+1109,SE,FT,Data Scientist,258000,0,1
+1110,SE,FT,Data Scientist,190000,0,0
+1111,MI,FT,Data Engineer,167500,0,1
+1112,MI,FT,Data Engineer,106500,0,0
+1113,MI,FT,Data Engineer,146000,0,1
+1114,EX,FT,Data Engineer,286000,2,1
+1115,EX,FT,Data Engineer,207000,2,0
+1116,SE,FT,Data Engineer,223250,0,1
+1117,SE,FT,Data Engineer,178600,0,0
+1118,EX,FT,Data Scientist,353200,0,1
+1119,EX,FT,Data Scientist,249300,0,0
+1120,MI,FT,Data Scientist,230000,0,1
+1121,MI,FT,Data Scientist,220000,0,1
+1122,SE,FT,Data Scientist,297300,2,1
+1123,SE,FT,Data Scientist,198200,2,0
+1124,MI,FT,Data Scientist,210000,2,1
+1125,MI,FT,Data Scientist,151800,2,0
+1126,SE,FT,Data Scientist,317070,0,1
+1127,SE,FT,Data Scientist,170730,0,0
+1128,SE,FT,Machine Learning Engineer,108000,0,0
+1129,MI,FT,Machine Learning Engineer,134000,2,0
+1130,MI,FT,Machine Learning Engineer,124000,2,0
+1131,SE,FT,Data Engineer,171250,0,0
+1132,SE,FT,Data Engineer,113750,0,0
+1133,SE,FT,Data Scientist,225000,0,1
+1134,SE,FT,Data Scientist,175000,0,0
+1135,SE,FT,Data Engineer,230000,0,1
+1136,SE,FT,Data Engineer,124500,0,0
+1137,SE,FT,Data Analyst,175000,0,1
+1138,SE,FT,Data Analyst,148700,0,0
+1139,SE,FT,Data Analyst,125600,0,0
+1140,SE,FT,Data Scientist,200000,0,0
+1141,SE,FT,Data Scientist,150000,0,0
+1142,EN,FT,Machine Learning Engineer,160000,0,1
+1143,EN,FT,Machine Learning Engineer,120000,0,0
+1144,SE,FT,Data Analyst,185000,2,1
+1145,SE,FT,Data Analyst,120250,2,0
+1146,SE,FT,Data Scientist,183000,2,0
+1147,SE,FT,Data Engineer,170000,2,0
+1148,SE,FT,Data Engineer,125000,2,0
+1149,SE,FT,Data Scientist,250000,0,1
+1150,MI,FT,Machine Learning Engineer,135000,1,0
+1151,SE,FT,Data Scientist,423834,0,1
+1152,SE,FT,Machine Learning Engineer,216000,2,0
+1153,SE,FT,Machine Learning Engineer,184000,2,0
+1154,SE,FT,Data Engineer,180000,2,0
+1155,SE,FT,Data Engineer,165000,2,0
+1156,MI,FT,Data Engineer,143865,0,0
+1157,MI,FT,Data Engineer,115092,0,0
+1158,MI,FT,Machine Learning Engineer,130000,0,0
+1159,SE,FT,Data Scientist,173000,2,0
+1160,SE,FT,Data Scientist,132000,2,0
+1161,SE,FT,Data Analyst,208049,0,1
+1162,SE,FT,Data Analyst,128500,0,0
+1163,SE,FT,Data Engineer,167500,0,0
+1164,SE,FT,Data Engineer,106500,0,0
+1165,MI,FT,Data Engineer,149600,0,1
+1166,MI,FT,Data Engineer,102000,0,0
+1167,SE,FT,Data Analyst,190000,2,1
+1168,SE,FT,Data Analyst,106800,0,0
+1169,MI,FT,Data Analyst,128000,0,1
+1170,MI,FT,Data Engineer,151000,0,1
+1171,MI,FT,Data Engineer,140000,0,0
+1172,SE,FT,Data Scientist,220000,0,1
+1173,SE,FT,Data Scientist,170000,0,0
+1174,SE,FT,Data Engineer,160000,2,0
+1175,SE,FT,Data Engineer,145000,2,0
+1176,MI,FT,Data Analyst,154000,0,1
+1177,MI,FT,Data Analyst,143000,0,1
+1178,EN,FT,Data Scientist,190000,0,1
+1179,EN,FT,Data Scientist,120000,0,1
+1180,MI,FT,Data Scientist,109371,0,0
+1181,SE,FT,Data Engineer,111000,0,0
+1182,EX,FT,Data Engineer,265000,0,1
+1183,EX,FT,Data Engineer,235000,0,0
+1184,EN,FT,Data Scientist,121093,1,1
+1185,SE,FT,Data Scientist,172309,2,0
+1186,SE,FT,Data Scientist,201036,0,0
+1187,SE,FT,Data Scientist,134024,0,0
+1188,SE,FT,Data Analyst,165000,2,1
+1189,SE,FT,Data Analyst,140000,2,0
+1190,SE,FT,Data Scientist,172000,0,0
+1191,SE,FT,Data Scientist,115000,0,0
+1192,EN,FT,Data Engineer,125000,0,1
+1193,SE,FT,Data Engineer,163800,0,0
+1194,SE,FT,Data Engineer,126000,0,0
+1195,SE,FT,Data Engineer,139500,0,0
+1196,SE,FT,Data Engineer,109400,0,0
+1197,MI,FT,Data Engineer,145000,0,1
+1198,MI,FT,Data Engineer,120000,0,0
+1199,SE,FT,Data Engineer,205600,0,1
+1200,SE,FT,Data Engineer,105700,0,0
+1201,SE,FT,Data Scientist,239748,0,1
+1202,SE,FT,Data Scientist,159832,0,0
+1203,SE,FT,Data Scientist,186300,2,0
+1204,SE,FT,Data Scientist,102500,2,0
+1205,SE,FT,Data Scientist,126000,0,0
+1206,SE,FT,Data Engineer,149040,2,0
+1207,SE,FT,Data Engineer,113900,2,0
+1208,SE,FT,Data Engineer,153600,2,0
+1209,SE,FT,Data Engineer,106800,2,0
+1210,SE,FT,Data Engineer,172600,2,0
+1211,SE,FT,Data Engineer,107900,2,0
+1212,SE,FT,Data Analyst,180180,0,1
+1213,SE,FT,Data Analyst,106020,0,0
+1214,SE,FT,Data Engineer,376080,2,1
+1215,SE,FT,Data Engineer,213120,2,1
+1216,SE,FT,Data Analyst,206500,2,1
+1217,SE,FT,Data Analyst,121600,2,0
+1218,SE,FT,Data Engineer,260000,0,1
+1219,SE,FT,Data Engineer,225000,0,1
+1220,EX,FT,Data Engineer,194500,0,0
+1221,EX,FT,Data Engineer,115500,0,0
+1222,SE,FT,Data Engineer,170000,2,0
+1223,SE,FT,Data Engineer,275000,0,1
+1224,SE,FT,Data Analyst,115934,2,0
+1225,SE,FT,Machine Learning Engineer,150000,2,0
+1226,SE,FT,Machine Learning Engineer,120000,2,0
+1227,SE,FT,Machine Learning Engineer,200000,0,0
+1228,SE,FT,Machine Learning Engineer,175000,0,0
+1229,MI,FT,Data Analyst,206000,0,1
+1230,MI,FT,Data Analyst,130000,0,1
+1231,SE,FT,Data Engineer,138000,2,0
+1232,SE,FT,Data Analyst,110000,2,0
+1233,SE,FT,Data Analyst,130000,0,0
+1234,MI,FT,Data Analyst,160000,0,1
+1235,MI,FT,Data Analyst,112000,0,0
+1236,SE,FT,Data Scientist,299500,0,1
+1237,SE,FT,Data Scientist,245100,0,1
+1238,MI,FT,Data Scientist,145000,0,0
+1239,SE,FT,Data Engineer,147100,0,0
+1240,EN,FT,Data Engineer,115100,0,1
+1241,SE,FT,Data Engineer,168400,0,0
+1242,SE,FT,Data Engineer,105200,0,0
+1243,MI,FT,Data Analyst,130000,2,1
+1244,SE,FT,Data Scientist,205000,0,0
+1245,SE,FT,Data Scientist,141288,0,0
+1246,SE,FT,Data Engineer,184000,2,0
+1247,SE,FT,Data Engineer,143000,2,0
+1248,SE,FT,Data Analyst,275300,2,1
+1249,SE,FT,Data Analyst,183500,2,1
+1250,MI,FT,Machine Learning Engineer,160000,0,0
+1251,MI,FT,Machine Learning Engineer,147000,0,0
+1252,MI,FT,Machine Learning Engineer,150000,0,0
+1253,EX,FT,Data Engineer,210914,2,0
+1254,EX,FT,Data Engineer,116704,2,0
+1255,EN,FT,Data Scientist,150000,0,1
+1256,MI,FT,Data Analyst,185700,0,1
+1257,MI,FT,Data Analyst,165000,0,1
+1258,SE,FT,Data Analyst,169000,0,1
+1259,SE,FT,Data Analyst,110600,0,0
+1260,SE,FT,Data Engineer,193000,2,1
+1261,SE,FT,Data Engineer,136850,2,0
+1262,SE,FT,Machine Learning Engineer,139500,0,0
+1263,SE,FT,Machine Learning Engineer,109400,0,0
+1264,SE,FT,Data Engineer,276000,2,1
+1265,SE,FT,Data Engineer,178500,2,0
+1266,SE,FT,Machine Learning Engineer,195652,0,0
+1267,SE,FT,Machine Learning Engineer,101228,0,0
+1268,SE,FT,Data Engineer,136956,0,0
+1269,SE,FT,Data Engineer,101228,0,0
+1270,SE,FT,Data Analyst,130000,2,0
+1271,MI,FT,Data Scientist,150000,2,0
+1272,SE,FT,Machine Learning Engineer,260000,2,1
+1273,SE,FT,Machine Learning Engineer,110000,2,0
+1274,SE,FT,Data Analyst,170000,2,1
+1275,SE,FT,Data Analyst,130000,2,0
+1276,SE,FT,Machine Learning Engineer,163800,0,0
+1277,SE,FT,Machine Learning Engineer,126000,0,0
+1278,MI,FT,Data Scientist,128750,0,0
+1279,MI,FT,Data Scientist,106250,0,0
+1280,EX,FT,Data Engineer,167500,0,0
+1281,EX,FT,Data Engineer,106500,0,0
+1282,SE,FT,Data Engineer,188500,2,0
+1283,SE,FT,Data Engineer,117000,2,0
+1284,SE,FT,Data Analyst,250000,2,1
+1285,SE,FT,Data Analyst,138000,2,0
+1286,MI,FT,Data Analyst,130000,2,1
+1287,SE,FT,Data Scientist,123405,0,0
+1288,SE,FT,Data Analyst,160000,0,1
+1289,SE,FT,Data Analyst,135000,0,0
+1290,MI,FT,Data Scientist,104500,0,0
+1291,MI,FT,Data Scientist,185000,2,1
+1292,MI,FT,Data Scientist,125000,2,0
+1293,SE,FT,Data Analyst,127000,2,0
+1294,SE,FT,Data Scientist,210550,0,0
+1295,SE,FT,Data Scientist,153300,0,0
+1296,MI,FT,Data Scientist,200000,2,1
+1297,MI,FT,Data Scientist,150000,2,0
+1298,SE,FT,Data Analyst,161500,2,1
+1299,SE,FT,Data Analyst,119500,2,0
+1300,SE,FT,Data Scientist,148750,0,0
+1301,SE,FT,Data Analyst,105000,0,0
+1302,SE,FT,Data Scientist,215000,0,1
+1303,SE,FT,Data Scientist,146300,0,0
+1304,EN,FT,Machine Learning Engineer,214618,2,1
+1305,SE,FT,Machine Learning Engineer,153400,0,0
+1306,SE,FT,Machine Learning Engineer,122700,0,0
+1307,MI,FT,Data Engineer,260000,0,1
+1308,MI,FT,Data Engineer,175000,0,1
+1309,SE,FT,Data Scientist,123900,2,0
+1310,MI,FT,Data Scientist,340000,2,1
+1311,MI,FT,Data Scientist,150000,2,0
+1312,MI,FT,Data Engineer,250000,0,1
+1313,SE,FT,Data Analyst,185900,0,1
+1314,SE,FT,Data Analyst,121700,0,0
+1315,EX,FT,Data Engineer,310000,2,1
+1316,EX,FT,Data Engineer,239000,2,0
+1317,SE,FT,Data Analyst,125000,0,0
+1318,SE,FT,Data Analyst,110000,0,0
+1319,EN,FT,Data Analyst,150000,0,1
+1320,SE,FT,Data Scientist,149076,0,0
+1321,SE,FT,Data Scientist,201000,0,0
+1322,SE,FT,Data Scientist,122000,0,0
+1323,MI,FT,Data Scientist,116990,2,0
+1324,MI,FT,Data Scientist,200000,0,1
+1325,MI,FT,Data Scientist,125000,0,0
+1326,SE,FT,Machine Learning Engineer,204500,0,0
+1327,SE,FT,Machine Learning Engineer,142200,0,0
+1328,SE,FT,Data Engineer,155000,0,0
+1329,SE,FT,Data Engineer,140000,0,0
+1330,MI,FT,Machine Learning Engineer,205920,0,1
+1331,MI,FT,Machine Learning Engineer,171600,0,0
+1332,SE,FT,Data Engineer,121500,2,0
+1333,MI,FT,Data Engineer,154000,0,1
+1334,MI,FT,Data Engineer,116000,0,0
+1335,SE,FT,Data Scientist,136000,0,0
+1336,SE,FT,Data Analyst,180000,0,1
+1337,SE,FT,Data Engineer,170000,0,0
+1338,SE,FT,Data Engineer,154000,0,0
+1339,SE,FT,Data Engineer,116000,0,0
+1340,MI,FT,Data Engineer,200000,0,1
+1341,SE,FT,Data Scientist,160000,2,0
+1342,MI,FT,Data Engineer,127599,0,0
+1343,MI,FT,Data Engineer,103294,0,0
+1344,SE,FT,Data Engineer,153600,0,0
+1345,SE,FT,Data Engineer,106800,0,0
+1346,SE,FT,Data Scientist,156400,0,0
+1347,SE,FT,Data Analyst,150000,0,1
+1348,SE,FT,Data Analyst,120000,0,0
+1349,SE,FT,Data Analyst,145000,2,0
+1350,SE,FT,Data Scientist,260000,0,1
+1351,MI,FT,Data Scientist,185000,0,1
+1352,MI,FT,Data Scientist,125000,0,0
+1353,EX,FT,Data Scientist,106000,0,0
+1354,SE,FT,Data Analyst,175000,2,1
+1355,SE,FT,Data Analyst,122000,2,0
+1356,SE,FT,Data Scientist,150000,2,0
+1357,EN,FT,Machine Learning Engineer,220000,0,1
+1358,MI,FT,Machine Learning Engineer,200000,0,1
+1359,MI,FT,Machine Learning Engineer,175000,0,0
+1360,SE,FT,Data Scientist,136000,2,0
+1361,SE,FT,Data Scientist,104000,2,0
+1362,SE,FT,Data Analyst,152380,0,1
+1363,SE,FT,Data Analyst,121904,0,0
+1364,SE,FT,Data Engineer,168400,0,0
+1365,SE,FT,Data Engineer,105200,0,0
+1366,SE,FT,Machine Learning Engineer,128280,0,0
+1367,SE,FT,Machine Learning Engineer,106900,0,0
+1368,SE,FT,Data Scientist,192000,2,0
+1369,SE,FT,Machine Learning Engineer,107309,2,0
+1370,SE,FT,Machine Learning Engineer,275000,0,1
+1371,SE,FT,Machine Learning Engineer,174000,0,0
+1372,SE,FT,Data Analyst,170500,2,1
+1373,EX,FT,Data Scientist,160288,0,0
+1374,EX,FT,Data Scientist,127467,0,0
+1375,SE,FT,Data Engineer,124740,0,0
+1376,SE,FT,Data Analyst,179975,2,1
+1377,SE,FT,Data Scientist,175000,0,0
+1378,SE,FT,Data Scientist,120000,0,0
+1379,SE,FT,Data Analyst,230000,0,1
+1380,SE,FT,Data Engineer,120000,0,0
+1381,SE,FT,Machine Learning Engineer,205920,0,0
+1382,SE,FT,Machine Learning Engineer,171600,0,0
+1383,SE,FT,Data Engineer,265000,0,1
+1384,MI,FT,Machine Learning Engineer,130000,0,0
+1385,EN,FT,Data Scientist,168000,2,1
+1386,SE,FT,Data Engineer,167580,0,0
+1387,SE,FT,Data Engineer,202000,2,1
+1388,SE,FT,Data Engineer,135000,2,0
+1389,SE,FT,Data Engineer,104000,2,0
+1390,SE,FT,Machine Learning Engineer,230000,0,0
+1391,SE,FT,Machine Learning Engineer,148000,0,0
+1392,SE,FT,Machine Learning Engineer,269000,2,1
+1393,SE,FT,Machine Learning Engineer,158000,2,0
+1394,SE,FT,Data Analyst,197000,0,1
+1395,SE,FT,Data Analyst,106000,0,0
+1396,MI,FT,Machine Learning Engineer,150000,2,0
+1397,SE,FT,Data Engineer,290000,2,1
+1398,SE,FT,Data Engineer,210000,2,1
+1399,SE,FT,Data Engineer,192000,0,1
+1400,SE,FT,Data Engineer,172800,0,0
+1401,SE,FT,Data Scientist,300240,0,1
+1402,SE,FT,Data Scientist,200160,0,0
+1403,SE,FT,Data Analyst,175000,0,1
+1404,SE,FT,Data Analyst,140000,0,0
+1405,SE,FT,Data Engineer,169000,0,0
+1406,SE,FT,Data Scientist,370000,0,1
+1407,MI,FT,Data Engineer,115447,2,0
+1408,SE,FT,Data Analyst,110000,2,0
+1409,SE,FT,Data Engineer,137500,2,0
+1410,SE,FT,Machine Learning Engineer,323300,0,1
+1411,SE,FT,Machine Learning Engineer,184700,0,0
+1412,SE,FT,Machine Learning Engineer,186000,2,0
+1413,SE,FT,Machine Learning Engineer,153088,2,0
+1414,MI,FT,Data Engineer,190000,2,1
+1415,MI,FT,Data Engineer,160000,2,1
+1416,SE,FT,Machine Learning Engineer,200000,2,0
+1417,MI,FT,Data Engineer,190000,0,1
+1418,MI,FT,Data Engineer,183310,0,1
+1419,SE,FT,Machine Learning Engineer,240000,2,0
+1420,SE,FT,Machine Learning Engineer,180000,2,0
+1421,SE,FT,Data Engineer,144000,2,0
+1422,MI,FT,Machine Learning Engineer,148500,0,0
+1423,MI,FT,Machine Learning Engineer,126277,0,0
+1424,SE,FT,Data Engineer,228000,0,1
+1425,SE,FT,Data Engineer,120000,0,0
+1426,SE,FT,Machine Learning Engineer,180000,0,0
+1427,SE,FT,Data Scientist,126500,0,0
+1428,SE,FT,Data Engineer,180000,0,0
+1429,SE,FT,Machine Learning Engineer,272000,0,1
+1430,SE,FT,Machine Learning Engineer,170000,0,0
+1431,SE,FT,Data Engineer,259000,2,1
+1432,SE,FT,Data Engineer,146000,2,0
+1433,SE,FT,Data Scientist,139500,0,0
+1434,MI,FT,Data Engineer,140000,2,0
+1435,MI,FT,Data Engineer,120000,2,0
+1436,MI,FT,Data Analyst,109371,0,0
+1437,SE,FT,Data Scientist,247500,0,1
+1438,SE,FT,Data Scientist,172200,0,0
+1439,SE,FT,Machine Learning Engineer,107309,2,0
+1440,SE,FT,Machine Learning Engineer,288000,2,1
+1441,SE,FT,Machine Learning Engineer,140000,2,0
+1442,SE,FT,Data Scientist,215050,2,1
+1443,SE,FT,Data Scientist,156400,2,0
+1444,SE,FT,Data Engineer,198000,2,1
+1445,SE,FT,Data Engineer,114000,2,0
+1446,SE,FT,Data Scientist,209300,2,0
+1447,SE,FT,Data Scientist,182200,2,0
+1448,EN,FT,Machine Learning Engineer,120000,2,0
+1449,SE,FT,Machine Learning Engineer,147100,0,0
+1450,SE,FT,Data Analyst,227000,0,1
+1451,SE,FT,Data Analyst,108000,0,0
+1452,SE,FT,Data Engineer,160000,2,0
+1453,SE,FT,Data Engineer,226700,0,1
+1454,SE,FT,Data Engineer,133300,0,0
+1455,SE,FT,Data Engineer,151902,2,0
+1456,SE,FT,Data Engineer,250000,2,1
+1457,SE,FT,Data Engineer,162500,2,0
+1458,MI,FT,Data Analyst,165000,0,1
+1459,MI,FT,Data Analyst,124000,0,1
+1460,SE,FT,Data Scientist,253750,0,1
+1461,SE,FT,Data Scientist,169200,0,0
+1462,MI,FT,Data Scientist,170000,0,1
+1463,MI,FT,Data Scientist,120000,0,0
+1464,SE,FT,Data Engineer,213580,2,1
+1465,SE,FT,Data Engineer,163625,2,0
+1466,SE,FT,Machine Learning Engineer,375000,2,1
+1467,SE,FT,Data Engineer,101943,2,0
+1468,SE,FT,Machine Learning Engineer,220000,0,0
+1469,EX,FT,Data Engineer,210000,0,0
+1470,SE,FT,Data Scientist,231250,2,1
+1471,SE,FT,Data Scientist,138750,2,0
+1472,SE,FT,Machine Learning Engineer,284310,0,1
+1473,SE,FT,Machine Learning Engineer,153090,0,0
+1474,MI,FT,Data Analyst,125000,0,1
+1475,MI,FT,Data Analyst,105000,0,0
+1476,MI,FT,Data Analyst,109371,0,0
+1477,SE,FT,Data Scientist,225900,0,1
+1478,SE,FT,Data Scientist,156400,0,0
+1479,SE,FT,Data Analyst,385000,0,1
+1480,SE,FT,Data Scientist,135000,2,0
+1481,SE,FT,Data Engineer,241871,0,1
+1482,SE,FT,Data Engineer,133832,0,0
+1483,SE,FT,Data Analyst,192500,2,1
+1484,SE,FT,Data Scientist,370000,0,1
+1485,SE,FT,Data Scientist,235000,2,1
+1486,MI,FT,Machine Learning Engineer,121523,0,0
+1487,SE,FT,Data Scientist,216100,0,1
+1488,SE,FT,Data Scientist,140800,0,0
+1489,MI,FT,Machine Learning Engineer,145828,0,0
+1490,EN,FT,Data Scientist,110000,1,0
+1491,EX,FT,Data Engineer,284000,2,1
+1492,EX,FT,Data Engineer,236000,2,0
+1493,SE,FT,Data Scientist,248100,0,1
+1494,SE,FT,Data Scientist,145900,0,0
+1495,SE,FT,Machine Learning Engineer,155850,0,0
+1496,SE,FT,Machine Learning Engineer,102544,0,0
+1497,MI,FT,Data Scientist,151410,2,0
+1498,MI,FT,Data Scientist,115360,2,0
+1499,SE,FT,Data Scientist,125686,1,0
+1500,SE,FT,Data Scientist,185000,0,0
+1501,SE,FT,Data Scientist,120250,0,0
+1502,EN,FT,Data Scientist,180000,2,1
+1503,SE,FT,Data Analyst,135000,2,0
+1504,EX,FT,Data Analyst,155000,0,0
+1505,EX,FT,Data Analyst,140000,0,0
+1506,SE,FT,Data Scientist,225000,2,1
+1507,SE,FT,Machine Learning Engineer,220000,0,0
+1508,SE,FT,Machine Learning Engineer,150000,0,0
+1509,SE,FT,Data Analyst,204500,0,1
+1510,SE,FT,Data Analyst,138900,0,0
+1511,SE,FT,Data Engineer,107000,2,0
+1512,MI,FT,Machine Learning Engineer,110000,2,0
+1513,SE,FT,Data Engineer,265000,2,1
+1514,SE,FT,Data Engineer,182750,2,0
+1515,SE,FT,Data Engineer,137500,0,0
+1516,EX,FT,Data Scientist,314100,0,1
+1517,EX,FT,Data Scientist,195800,0,0
+1518,SE,FT,Data Scientist,205000,0,0
+1519,SE,FT,Data Scientist,180000,0,0
+1520,SE,FT,Data Scientist,165000,2,0
+1521,SE,FT,Data Scientist,144000,2,0
+1522,EN,FT,Data Analyst,160000,0,1
+1523,EX,FT,Data Engineer,200000,0,0
+1524,MI,FT,Data Analyst,150000,0,1
+1525,SE,FT,Data Engineer,199000,0,1
+1526,SE,FT,Data Engineer,112000,0,0
+1527,EN,FT,Data Engineer,130000,2,1
+1528,EN,FT,Data Engineer,160000,0,1
+1529,EN,FT,Data Engineer,135000,0,1
+1530,SE,FT,Data Scientist,183000,0,0
+1531,SE,FT,Data Scientist,134000,0,0
+1532,SE,FT,Data Scientist,350000,0,1
+1533,SE,FT,Data Scientist,262500,0,1
+1534,SE,FT,Data Analyst,122000,0,0
+1535,SE,FT,Machine Learning Engineer,276000,0,1
+1536,SE,FT,Machine Learning Engineer,184000,0,0
+1537,MI,FT,Machine Learning Engineer,180000,2,1
+1538,MI,FT,Machine Learning Engineer,150000,2,0
+1539,SE,FT,Data Scientist,209450,2,0
+1540,SE,FT,Data Scientist,158677,2,0
+1541,MI,FT,Data Analyst,103200,0,0
+1542,MI,FT,Data Scientist,155000,2,0
+1543,SE,FT,Data Scientist,240000,2,1
+1544,SE,FT,Data Scientist,139000,2,0
+1545,SE,FT,Data Engineer,174500,0,0
+1546,SE,FT,Data Engineer,113000,0,0
+1547,SE,FT,Data Analyst,160000,2,1
+1548,SE,FT,Data Analyst,108000,2,0
+1549,SE,FT,Data Engineer,107250,2,0
+1550,SE,FT,Data Engineer,300000,0,1
+1551,SE,FT,Data Engineer,119000,0,0
+1552,SE,FT,Data Scientist,285800,2,1
+1553,SE,FT,Data Scientist,154600,2,0
+1554,MI,FT,Data Scientist,220000,0,1
+1555,MI,FT,Data Scientist,195000,0,1
+1556,SE,FT,Data Engineer,168400,0,0
+1557,SE,FT,Data Analyst,200000,2,1
+1558,SE,FT,Data Analyst,175000,2,1
+1559,SE,FT,Data Analyst,231250,2,1
+1560,SE,FT,Data Analyst,138750,2,0
+1561,SE,FT,Data Engineer,153000,2,0
+1562,EN,FT,Data Scientist,124234,0,1
+1563,MI,FT,Data Analyst,109000,0,0
+1564,SE,FT,Data Analyst,125600,2,0
+1565,SE,FT,Data Analyst,141290,0,0
+1566,SE,FT,Data Engineer,220000,0,1
+1567,SE,FT,Data Engineer,205600,2,1
+1568,SE,FT,Data Engineer,107500,2,0
+1569,SE,FT,Data Analyst,125000,0,0
+1570,SE,FT,Data Analyst,110000,0,0
+1571,SE,FT,Machine Learning Engineer,200000,0,0
+1572,SE,FT,Machine Learning Engineer,135000,0,0
+1573,EN,FT,Machine Learning Engineer,120000,1,0
+1574,SE,FT,Data Engineer,170000,2,0
+1575,MI,FT,Data Engineer,150000,0,1
+1576,SE,FT,Machine Learning Engineer,200000,2,0
+1577,SE,FT,Data Scientist,257000,0,1
+1578,SE,FT,Data Analyst,140000,2,0
+1579,SE,FT,Data Analyst,110000,2,0
+1580,SE,FT,Data Scientist,151800,0,0
+1581,SE,FT,Data Scientist,130000,2,0
+1582,MI,FT,Data Analyst,120000,2,1
+1583,MI,FT,Data Scientist,183310,0,1
+1584,SE,FT,Data Analyst,102500,2,0
+1585,SE,FT,Data Scientist,185000,0,0
+1586,SE,FT,Data Scientist,122000,0,0
+1587,SE,FT,Data Scientist,220000,0,1
+1588,SE,FT,Data Scientist,146000,0,0
+1589,SE,FT,Data Scientist,145000,0,0
+1590,SE,FT,Data Scientist,128000,0,0
+1591,SE,FT,Data Scientist,182000,0,0
+1592,SE,FT,Data Engineer,122000,0,0
+1593,EX,FT,Data Scientist,300000,0,1
+1594,MI,FT,Data Analyst,135000,0,1
+1595,MI,FT,Data Analyst,105500,0,0
+1596,MI,FT,Data Scientist,110000,2,0
+1597,SE,FT,Data Scientist,168000,2,0
+1598,SE,FT,Data Scientist,153400,0,0
+1599,SE,FT,Data Scientist,122700,0,0
+1600,SE,FT,Data Scientist,205000,2,0
+1601,MI,FT,Machine Learning Engineer,145000,0,0
+1602,SE,FT,Machine Learning Engineer,234100,2,0
+1603,SE,FT,Machine Learning Engineer,203500,2,0
+1604,SE,FT,Data Scientist,223800,0,1
+1605,SE,FT,Data Scientist,172100,0,0
+1606,SE,FT,Data Engineer,232200,2,1
+1607,SE,FT,Data Engineer,167200,2,0
+1608,SE,FT,Data Analyst,197000,0,1
+1609,SE,FT,Data Analyst,106000,0,0
+1610,SE,FT,Data Scientist,180000,0,0
+1611,SE,FT,Data Scientist,145000,0,0
+1612,SE,FT,Data Engineer,225000,0,1
+1613,SE,FT,Data Engineer,200000,0,1
+1614,SE,FT,Data Engineer,114000,2,0
+1615,SE,FT,Data Engineer,291500,0,1
+1616,EX,FT,Data Engineer,196200,0,0
+1617,EX,FT,Data Engineer,150900,0,0
+1618,SE,FT,Data Scientist,168400,0,0
+1619,SE,FT,Data Scientist,105200,0,0
+1620,MI,FT,Data Analyst,116000,0,1
+1621,SE,FT,Data Analyst,207000,0,1
+1622,SE,FT,Data Analyst,167000,0,1
+1623,SE,FT,Machine Learning Engineer,145000,0,0
+1624,SE,FT,Machine Learning Engineer,135000,0,0
+1625,MI,FT,Data Engineer,105000,0,0
+1626,SE,FT,Data Engineer,133800,2,0
+1627,MI,FT,Data Analyst,120000,0,1
+1628,SE,FT,Machine Learning Engineer,140000,0,0
+1629,SE,FT,Data Scientist,120000,0,0
+1630,SE,FT,Data Engineer,140000,2,0
+1631,SE,FT,Data Engineer,115000,2,0
+1632,SE,FT,Data Scientist,297300,2,1
+1633,SE,FT,Data Scientist,198200,2,0
+1634,MI,FT,Machine Learning Engineer,219000,1,1
+1635,SE,FT,Data Scientist,230000,2,1
+1636,SE,FT,Data Scientist,196000,2,0
+1637,SE,FT,Data Engineer,110000,0,0
+1638,SE,FT,Data Scientist,126100,0,0
+1639,MI,FT,Machine Learning Engineer,175000,2,0
+1640,MI,FT,Machine Learning Engineer,140000,2,0
+1641,SE,FT,Data Analyst,240500,0,1
+1642,SE,FT,Data Analyst,137500,0,0
+1643,MI,FT,Data Scientist,187500,0,1
+1644,MI,FT,Data Scientist,165000,0,1
+1645,SE,FT,Data Scientist,165750,0,0
+1646,SE,FT,Data Scientist,225000,2,1
+1647,SE,FT,Data Scientist,165750,2,0
+1648,MI,FT,Machine Learning Engineer,109006,0,0
+1649,SE,FT,Data Scientist,115000,2,0
+1650,SE,FT,Machine Learning Engineer,275000,0,1
+1651,SE,FT,Machine Learning Engineer,175000,0,0
+1652,SE,FT,Data Engineer,175308,0,0
+1653,SE,FT,Data Engineer,100706,0,0
+1654,SE,FT,Machine Learning Engineer,235000,0,0
+1655,SE,FT,Machine Learning Engineer,135000,0,0
+1656,SE,FT,Data Engineer,310000,0,1
+1657,SE,FT,Data Engineer,229000,0,1
+1658,SE,FT,Machine Learning Engineer,289076,0,1
+1659,SE,FT,Machine Learning Engineer,202353,0,0
+1660,MI,FT,Machine Learning Engineer,120000,2,0
+1661,SE,FT,Data Engineer,231250,2,1
+1662,SE,FT,Data Engineer,138750,2,0
+1663,SE,FT,Data Engineer,199000,0,1
+1664,SE,FT,Data Engineer,162000,0,0
+1665,EN,FT,Machine Learning Engineer,150000,0,1
+1666,EN,FT,Machine Learning Engineer,120000,0,0
+1667,SE,FT,Machine Learning Engineer,150000,0,0
+1668,SE,FT,Data Analyst,133000,0,0
+1669,SE,FT,Data Scientist,272550,0,1
+1670,SE,FT,Data Scientist,198200,0,0
+1671,MI,FT,Data Scientist,105000,0,0
+1672,SE,FT,Data Engineer,187500,2,0
+1673,SE,FT,Data Analyst,155000,2,1
+1674,SE,FT,Machine Learning Engineer,235000,0,0
+1675,SE,FT,Machine Learning Engineer,185000,0,0
+1676,SE,FT,Data Scientist,143100,0,0
+1677,SE,FT,Data Scientist,113000,0,0
+1678,SE,FT,Data Scientist,142000,2,0
+1679,SE,FT,Data Scientist,180560,0,0
+1680,SE,FT,Data Scientist,115440,0,0
+1681,SE,FT,Data Scientist,248100,0,1
+1682,SE,FT,Data Scientist,145900,0,0
+1683,SE,FT,Data Scientist,120000,0,0
+1684,SE,FT,Data Scientist,110000,0,0
+1685,SE,FT,Data Engineer,161800,0,0
+1686,SE,FT,Data Engineer,141600,0,0
+1687,SE,FT,Data Engineer,128000,2,0
+1688,SE,FT,Data Engineer,110000,2,0
+1689,SE,FT,Data Engineer,236000,2,1
+1690,SE,FT,Data Engineer,182000,2,0
+1691,EN,FT,Data Scientist,130000,0,1
+1692,SE,FT,Machine Learning Engineer,261500,0,1
+1693,SE,FT,Machine Learning Engineer,134500,0,0
+1694,MI,FT,Data Scientist,130000,0,0
+1695,SE,FT,Data Engineer,125000,2,0
+1696,SE,FT,Data Engineer,175000,0,0
+1697,SE,FT,Data Engineer,155000,0,0
+1698,SE,FT,Data Engineer,153600,0,0
+1699,SE,FT,Data Engineer,106800,0,0
+1700,SE,FT,Data Scientist,150000,0,0
+1701,SE,FT,Data Scientist,140000,0,0
+1702,SE,FT,Data Scientist,122000,0,0
+1703,SE,FT,Data Engineer,170000,0,0
+1704,SE,FT,Data Engineer,130000,0,0
+1705,SE,FT,Data Scientist,145000,0,0
+1706,SE,FT,Data Scientist,128000,0,0
+1707,SE,FT,Data Engineer,145000,0,0
+1708,SE,FT,Data Engineer,120000,0,0
+1709,SE,FT,Data Engineer,115000,0,0
+1710,SE,FT,Data Scientist,150000,2,0
+1711,MI,FT,Data Analyst,150000,0,1
+1712,MI,FT,Data Scientist,150000,2,0
+1713,MI,FT,Data Scientist,127500,2,0
+1714,SE,FT,Data Scientist,126500,2,0
+1715,MI,FT,Data Engineer,260000,0,1
+1716,MI,FT,Data Engineer,175000,0,1
+1717,SE,FT,Data Engineer,250000,2,1
+1718,SE,FT,Machine Learning Engineer,210000,2,0
+1719,SE,FT,Machine Learning Engineer,160000,2,0
+1720,SE,FT,Data Scientist,272550,2,1
+1721,SE,FT,Data Scientist,198200,2,0
+1722,SE,FT,Data Scientist,220000,0,1
+1723,SE,FT,Data Scientist,146000,0,0
+1724,SE,FT,Machine Learning Engineer,248400,2,0
+1725,SE,FT,Machine Learning Engineer,183600,2,0
+1726,MI,FT,Data Engineer,150000,2,1
+1727,MI,FT,Data Engineer,120000,0,0
+1728,EN,FT,Data Engineer,160000,0,1
+1729,EN,FT,Data Engineer,135000,0,1
+1730,SE,FT,Data Engineer,216000,2,1
+1731,SE,FT,Data Engineer,144000,2,0
+1732,SE,FT,Data Analyst,149000,2,0
+1733,SE,FT,Data Analyst,119000,2,0
+1734,SE,FT,Data Scientist,120000,0,0
+1735,MI,FT,Data Scientist,150000,0,0
+1736,MI,FT,Data Scientist,110000,0,0
+1737,SE,FT,Machine Learning Engineer,246000,2,0
+1738,SE,FT,Machine Learning Engineer,201000,2,0
+1739,SE,FT,Data Scientist,190000,0,0
+1740,SE,FT,Data Scientist,155000,0,0
+1741,SE,FT,Machine Learning Engineer,235000,2,0
+1742,SE,FT,Machine Learning Engineer,185000,2,0
+1743,SE,FT,Data Engineer,190000,2,1
+1744,SE,FT,Data Engineer,160000,2,0
+1745,MI,FT,Data Engineer,130000,0,0
+1746,MI,FT,Data Engineer,115000,0,0
+1747,MI,FT,Data Engineer,105000,0,0
+1748,SE,FT,Machine Learning Engineer,204500,0,0
+1749,SE,FT,Machine Learning Engineer,142200,0,0
+1750,SE,FT,Machine Learning Engineer,192000,2,0
+1751,SE,FT,Machine Learning Engineer,164000,2,0
+1752,SE,FT,Data Engineer,185900,0,0
+1753,SE,FT,Data Engineer,129300,0,0
+1754,SE,FT,Data Scientist,175000,0,0
+1755,SE,FT,Data Scientist,120000,0,0
+1756,SE,FT,Data Engineer,167500,0,0
+1757,SE,FT,Data Engineer,106500,0,0
+1758,SE,FT,Data Scientist,184000,2,0
+1759,SE,FT,Data Scientist,142000,2,0
+1760,MI,FT,Data Scientist,145000,0,0
+1761,EX,FT,Data Engineer,200000,0,0
+1762,EX,FT,Data Engineer,145000,0,0
+1763,SE,FT,Data Scientist,192000,2,0
+1764,SE,FT,Data Scientist,164000,2,0
+1765,EX,FT,Data Engineer,310000,2,1
+1766,EX,FT,Data Engineer,239000,2,0
+1767,SE,FT,Data Analyst,120000,0,0
+1768,SE,FT,Machine Learning Engineer,145000,0,0
+1769,SE,FT,Machine Learning Engineer,135000,0,0
+1770,MI,FT,Data Engineer,160000,2,1
+1771,MI,FT,Data Engineer,120000,2,0
+1772,SE,FT,Data Scientist,125000,2,0
+1773,SE,FT,Data Analyst,115934,2,0
+1774,SE,FT,Data Scientist,175000,2,0
+1775,SE,FT,Data Scientist,140000,2,0
+1776,SE,FT,Machine Learning Engineer,249500,0,0
+1777,SE,FT,Machine Learning Engineer,149850,0,0
+1778,MI,FT,Data Analyst,122500,2,1
+1779,SE,FT,Data Scientist,249500,0,1
+1780,SE,FT,Data Scientist,149850,0,0
+1781,SE,FT,Data Scientist,249500,0,1
+1782,SE,FT,Data Scientist,149850,0,0
+1783,SE,FT,Data Engineer,190000,2,1
+1784,SE,FT,Data Engineer,120000,2,0
+1785,SE,FT,Data Analyst,127000,2,0
+1786,SE,FT,Data Analyst,104000,2,0
+1787,SE,FT,Data Scientist,210000,2,0
+1788,SE,FT,Data Scientist,150000,2,0
+1789,SE,FT,Machine Learning Engineer,150000,2,0
+1790,SE,FT,Data Engineer,210000,2,1
+1791,SE,FT,Data Engineer,130000,2,0
+1792,SE,FT,Data Scientist,182750,2,0
+1793,SE,FT,Data Scientist,161500,2,0
+1794,MI,FT,Data Analyst,102640,2,0
+1795,SE,FT,Data Scientist,210000,2,0
+1796,SE,FT,Data Scientist,150000,2,0
+1797,SE,FT,Data Engineer,198800,0,1
+1798,SE,FT,Data Engineer,122600,0,0
+1799,MI,FT,Data Engineer,130000,2,0
+1800,SE,FT,Data Scientist,136000,2,0
+1801,SE,FT,Data Scientist,104000,2,0
+1802,SE,FT,Data Analyst,150000,2,1
+1803,EX,FT,Data Scientist,159000,2,0
+1804,EX,FT,Data Scientist,130000,2,0
+1805,SE,FT,Data Engineer,215000,2,1
+1806,SE,FT,Data Engineer,150000,2,0
+1807,MI,FT,Data Engineer,187000,2,1
+1808,MI,FT,Data Engineer,153000,2,1
+1809,SE,FT,Machine Learning Engineer,255000,2,1
+1810,SE,FT,Machine Learning Engineer,185000,2,0
+1811,MI,FT,Data Analyst,430967,0,1
+1812,SE,FT,Data Analyst,169000,0,1
+1813,SE,FT,Data Analyst,110600,0,0
+1814,SE,FT,Data Analyst,140000,2,0
+1815,SE,FT,Data Analyst,120000,2,0
+1816,MI,FT,Machine Learning Engineer,134000,2,0
+1817,MI,FT,Machine Learning Engineer,124000,2,0
+1818,SE,FT,Data Analyst,166700,0,1
+1819,SE,FT,Data Analyst,119000,0,0
+1820,EN,FT,Data Scientist,124234,0,1
+1821,EN,FT,Data Scientist,200000,1,1
+1822,SE,FT,Data Engineer,220000,2,1
+1823,SE,FT,Data Engineer,146000,2,0
+1824,SE,FT,Data Analyst,110000,0,0
+1825,SE,FT,Data Engineer,190000,2,1
+1826,SE,FT,Data Engineer,135000,2,0
+1827,SE,FT,Data Scientist,128000,0,0
+1828,SE,FT,Data Scientist,173000,2,0
+1829,SE,FT,Data Scientist,110000,2,0
+1830,SE,FT,Machine Learning Engineer,192000,0,0
+1831,SE,FT,Machine Learning Engineer,120000,0,0
+1832,SE,FT,Machine Learning Engineer,190000,2,0
+1833,SE,FT,Data Engineer,194000,2,1
+1834,SE,FT,Data Engineer,129400,2,0
+1835,SE,FT,Data Analyst,201000,2,1
+1836,SE,FT,Data Scientist,165000,0,0
+1837,SE,FT,Data Scientist,125000,0,0
+1838,SE,FT,Data Scientist,230000,2,1
+1839,SE,FT,Data Scientist,196000,2,0
+1840,MI,FT,Machine Learning Engineer,130000,0,0
+1841,MI,FT,Data Scientist,150000,2,0
+1842,MI,FT,Machine Learning Engineer,230000,0,1
+1843,MI,FT,Machine Learning Engineer,150000,0,0
+1844,MI,FT,Data Scientist,130000,2,0
+1845,MI,FT,Data Scientist,180000,0,1
+1846,MI,FT,Data Scientist,120000,0,0
+1847,SE,FT,Data Analyst,192500,2,1
+1848,SE,FT,Data Analyst,140000,2,0
+1849,SE,FT,Data Engineer,152500,0,0
+1850,SE,FT,Data Engineer,178750,0,0
+1851,SE,FT,Data Engineer,160000,0,0
+1852,MI,FT,Data Scientist,165000,0,1
+1853,MI,FT,Data Scientist,135000,0,0
+1854,SE,FT,Data Analyst,170000,2,1
+1855,SE,FT,Data Analyst,125000,2,0
+1856,SE,FT,Data Engineer,105000,0,0
+1857,SE,FT,Data Scientist,130000,0,0
+1858,SE,FT,Data Scientist,203500,0,0
+1859,SE,FT,Data Scientist,152000,0,0
+1860,SE,FT,Data Engineer,197430,2,1
+1861,SE,FT,Data Engineer,134760,2,0
+1862,MI,FT,Data Scientist,120000,2,0
+1863,SE,FT,Data Engineer,197000,0,1
+1864,SE,FT,Data Engineer,162000,2,0
+1865,MI,FT,Data Engineer,110446,0,0
+1866,SE,FT,Data Engineer,149040,2,0
+1867,SE,FT,Data Engineer,113900,2,0
+1868,SE,FT,Data Analyst,115000,2,0
+1869,SE,FT,Data Analyst,171000,2,1
+1870,SE,FT,Data Scientist,185900,0,0
+1871,SE,FT,Data Scientist,129300,0,0
+1872,SE,FT,Data Engineer,230000,2,1
+1873,SE,FT,Data Engineer,154600,2,0
+1874,SE,FT,Data Engineer,213000,0,1
+1875,SE,FT,Data Engineer,152000,0,0
+1876,SE,FT,Data Scientist,120000,2,0
+1877,SE,FT,Data Scientist,110000,0,0
+1878,SE,FT,Machine Learning Engineer,227200,2,0
+1879,SE,FT,Machine Learning Engineer,168000,2,0
+1880,SE,FT,Machine Learning Engineer,243000,2,0
+1881,SE,FT,Machine Learning Engineer,183000,2,0
+1882,SE,FT,Data Engineer,150000,0,0
+1883,MI,FT,Data Scientist,130000,2,0
+1884,MI,FT,Data Analyst,165000,0,1
+1885,MI,FT,Data Analyst,124000,0,1
+1886,SE,FT,Data Engineer,178000,0,0
+1887,SE,FT,Data Engineer,132000,0,0
+1888,SE,FT,Data Engineer,300000,0,1
+1889,SE,FT,Data Analyst,116000,2,0
+1890,SE,FT,Data Analyst,105000,0,0
+1891,MI,FT,Data Scientist,105236,1,0
+1892,EN,FT,Machine Learning Engineer,189750,0,1
+1893,EN,FT,Machine Learning Engineer,140250,0,1
+1894,SE,FT,Data Analyst,130000,0,0
+1895,MI,FT,Data Analyst,160000,0,1
+1896,MI,FT,Data Analyst,109000,0,0
+1897,SE,FT,Machine Learning Engineer,250000,0,1
+1898,SE,FT,Machine Learning Engineer,150000,0,0
+1899,MI,FT,Data Analyst,206000,0,1
+1900,SE,FT,Data Engineer,135000,0,0
+1901,SE,FT,Machine Learning Engineer,115573,2,0
+1902,SE,FT,Data Engineer,191200,0,1
+1903,SE,FT,Data Engineer,230000,0,1
+1904,SE,FT,Data Engineer,154600,0,0
+1905,SE,FT,Data Analyst,135000,0,0
+1906,SE,FT,Data Analyst,110000,0,0
+1907,MI,FT,Data Analyst,155000,0,1
+1908,MI,FT,Data Analyst,140000,0,1
+1909,SE,FT,Data Engineer,205000,2,1
+1910,SE,FT,Data Engineer,179500,0,0
+1911,SE,FT,Data Engineer,134000,0,0
+1912,SE,FT,Data Scientist,145000,2,0
+1913,SE,FT,Data Engineer,235000,2,1
+1914,SE,FT,Data Engineer,175000,2,0
+1915,MI,FT,Data Analyst,165000,0,1
+1916,MI,FT,Data Analyst,135000,0,1
+1917,SE,FT,Data Engineer,168400,0,0
+1918,SE,FT,Data Engineer,105200,0,0
+1919,SE,FT,Data Engineer,200000,0,1
+1920,SE,FT,Data Scientist,198800,0,0
+1921,SE,FT,Data Scientist,122600,0,0
+1922,MI,FT,Data Analyst,105066,1,0
+1923,MI,FT,Data Analyst,104663,0,0
+1924,SE,FT,Data Engineer,125000,2,0
+1925,SE,FT,Data Engineer,110000,2,0
+1926,SE,FT,Data Scientist,148000,2,0
+1927,SE,FT,Data Scientist,107000,2,0
+1928,SE,FT,Data Scientist,299500,0,1
+1929,SE,FT,Data Scientist,245100,0,1
+1930,SE,FT,Data Scientist,168000,2,0
+1931,SE,FT,Data Scientist,130000,2,0
+1932,MI,FT,Data Engineer,161000,2,1
+1933,MI,FT,Data Engineer,118000,2,0
+1934,SE,FT,Data Scientist,205000,2,0
+1935,SE,FT,Data Scientist,247500,0,1
+1936,SE,FT,Data Scientist,172200,0,0
+1937,SE,FT,Data Analyst,177000,0,1
+1938,SE,FT,Data Analyst,131000,0,0
+1939,SE,FT,Data Engineer,146000,0,0
+1940,SE,FT,Data Engineer,102000,0,0
+1941,MI,FT,Data Engineer,175000,2,1
+1942,MI,FT,Data Engineer,135000,2,0
+1943,SE,FT,Data Engineer,231250,2,1
+1944,SE,FT,Data Engineer,138750,2,0
+1945,SE,FT,Data Analyst,193750,2,1
+1946,SE,FT,Data Analyst,116250,2,0
+1947,SE,FT,Data Analyst,231250,2,1
+1948,SE,FT,Data Analyst,138750,2,0
+1949,SE,FT,Data Engineer,193750,2,1
+1950,SE,FT,Data Engineer,116250,2,0
+1951,SE,FT,Data Scientist,208000,2,0
+1952,SE,FT,Data Scientist,127000,2,0
+1953,SE,FT,Data Scientist,300000,2,1
+1954,SE,FT,Data Scientist,196000,2,0
+1955,SE,FT,Data Scientist,205000,2,0
+1956,SE,FT,Data Scientist,185000,2,0
+1957,SE,FT,Machine Learning Engineer,247500,0,0
+1958,SE,FT,Machine Learning Engineer,172200,0,0
+1959,SE,FT,Data Analyst,110000,0,0
+1960,SE,FT,Data Scientist,375000,1,1
+1961,SE,FT,Data Scientist,225000,0,1
+1962,SE,FT,Data Scientist,156400,0,0
+1963,MI,FT,Machine Learning Engineer,104663,0,0
+1964,SE,FT,Data Scientist,140700,0,0
+1965,SE,FT,Data Scientist,350000,2,1
+1966,SE,FT,Data Scientist,135000,2,0
+1967,MI,FT,Machine Learning Engineer,104697,2,0
+1968,SE,FT,Machine Learning Engineer,201000,0,0
+1969,SE,FT,Machine Learning Engineer,119000,0,0
+1970,SE,FT,Data Engineer,175000,2,0
+1971,SE,FT,Data Analyst,154560,0,1
+1972,SE,FT,Data Analyst,123648,0,0
+1973,MI,FT,Data Engineer,170000,0,1
+1974,MI,FT,Data Engineer,145000,0,1
+1975,SE,FT,Data Engineer,135000,2,0
+1976,SE,FT,Data Scientist,247500,0,1
+1977,SE,FT,Data Scientist,172200,0,0
+1978,SE,FT,Data Scientist,177500,2,0
+1979,SE,FT,Data Scientist,134000,2,0
+1980,SE,FT,Data Engineer,192564,2,1
+1981,SE,FT,Data Engineer,144854,2,0
+1982,SE,FT,Data Engineer,179305,2,0
+1983,SE,FT,Data Engineer,142127,2,0
+1984,SE,FT,Data Engineer,315000,2,1
+1985,SE,FT,Data Engineer,225000,2,1
+1986,SE,FT,Data Scientist,243900,2,1
+1987,SE,FT,Data Scientist,156600,2,0
+1988,SE,FT,Data Engineer,182500,2,0
+1989,SE,FT,Data Engineer,128500,2,0
+1990,SE,FT,Data Analyst,110000,2,0
+1991,SE,FT,Data Engineer,210000,2,1
+1992,SE,FT,Data Engineer,136000,2,0
+1993,SE,FT,Data Engineer,170000,2,0
+1994,SE,FT,Data Engineer,140000,2,0
+1995,SE,FT,Data Engineer,247500,0,1
+1996,SE,FT,Data Engineer,172200,0,0
+1997,SE,FT,Data Engineer,225000,0,1
+1998,SE,FT,Data Engineer,184100,0,0
+1999,SE,FT,Data Engineer,161000,2,0
+2000,EX,FT,Data Scientist,205000,0,0
+2001,EX,FT,Data Scientist,160000,0,0
+2002,SE,FT,Data Scientist,245000,0,1
+2003,SE,FT,Data Scientist,180000,0,0
+2004,SE,FT,Data Engineer,220000,0,1
+2005,SE,FT,Data Scientist,198440,0,0
+2006,SE,FT,Data Scientist,144000,0,0
+2007,SE,FT,Data Engineer,240000,0,1
+2008,SE,FT,Data Scientist,198440,0,0
+2009,SE,FT,Data Scientist,144000,0,0
+2010,MI,FT,Data Analyst,150000,2,1
+2011,SE,FT,Machine Learning Engineer,187200,2,0
+2012,SE,FT,Machine Learning Engineer,116100,2,0
+2013,SE,FT,Data Analyst,150000,0,1
+2014,SE,FT,Data Analyst,127000,0,0
+2015,SE,FT,Data Engineer,275000,2,1
+2016,SE,FT,Data Engineer,166000,2,0
+2017,SE,FT,Data Scientist,159699,0,0
+2018,SE,FT,Data Scientist,138938,0,0
+2019,SE,FT,Data Analyst,103432,0,0
+2020,SE,FT,Data Engineer,236000,2,1
+2021,SE,FT,Data Engineer,182000,2,0
+2022,SE,FT,Data Scientist,180000,2,0
+2023,SE,FT,Data Analyst,135000,2,0
+2024,MI,FT,Machine Learning Engineer,240000,2,1
+2025,EN,PT,Data Analyst,125404,1,1
+2026,SE,FT,Data Engineer,195000,2,1
+2027,SE,FT,Data Engineer,110000,0,0
+2028,SE,FT,Data Analyst,123000,0,0
+2029,MI,FT,Machine Learning Engineer,180000,2,1
+2030,SE,FT,Machine Learning Engineer,180000,2,0
+2031,SE,FT,Data Engineer,260000,0,1
+2032,SE,FT,Data Engineer,180000,0,0
+2033,EX,FT,Data Analyst,210000,2,1
+2034,EX,FT,Data Analyst,157000,2,0
+2035,SE,FT,Data Engineer,128000,0,0
+2036,SE,FT,Data Engineer,105000,0,0
+2037,SE,FT,Data Scientist,175000,0,0
+2038,SE,FT,Data Scientist,122500,0,0
+2039,SE,FT,Data Engineer,171000,0,0
+2040,SE,FT,Data Engineer,117000,0,0
+2041,SE,FT,Data Scientist,202800,0,0
+2042,SE,FT,Data Scientist,104300,0,0
+2043,SE,FT,Data Engineer,345600,0,1
+2044,SE,FT,Data Engineer,230400,0,1
+2045,SE,FT,Data Analyst,175950,2,1
+2046,SE,FT,Data Analyst,130050,2,0
+2047,SE,FT,Data Engineer,205600,0,1
+2048,SE,FT,Data Engineer,105700,0,0
+2049,SE,FT,Data Analyst,236600,2,1
+2050,SE,FT,Data Analyst,200000,2,1
+2051,SE,FT,Data Scientist,165000,1,0
+2052,EN,FT,Machine Learning Engineer,108000,0,0
+2053,SE,FT,Data Scientist,155000,2,0
+2054,MI,FT,Data Engineer,110820,0,0
+2055,SE,FT,Data Scientist,153600,2,0
+2056,SE,FT,Data Scientist,106800,2,0
+2057,SE,FT,Data Scientist,123400,0,0
+2058,SE,FT,Data Scientist,120000,2,0
+2059,SE,FT,Data Analyst,150000,0,1
+2060,SE,FT,Data Analyst,120000,0,0
+2061,SE,FT,Data Scientist,139000,0,0
+2062,SE,FT,Data Analyst,139600,0,0
+2063,SE,FT,Data Engineer,185000,2,0
+2064,SE,FT,Data Scientist,200000,2,0
+2065,MI,FT,Machine Learning Engineer,148500,2,0
+2066,SE,FT,Data Analyst,115000,2,0
+2067,SE,FT,Data Engineer,225000,2,1
+2068,MI,FT,Data Engineer,134000,0,0
+2069,MI,FT,Data Analyst,105000,0,0
+2070,SE,FT,Data Engineer,161311,1,0
+2071,MI,FT,Data Scientist,144200,2,0
+2072,MI,FT,Data Scientist,115360,2,0
+2073,SE,FT,Data Engineer,180000,2,0
+2074,SE,FT,Data Engineer,160000,2,0
+2075,MI,FT,Data Scientist,108000,1,0
+2076,SE,FT,Machine Learning Engineer,200000,2,0
+2077,SE,FT,Machine Learning Engineer,150000,2,0
+2078,EX,FT,Data Engineer,125976,1,0
+2079,SE,FT,Data Engineer,188700,2,0
+2080,SE,FT,Data Engineer,160395,2,0
+2081,SE,FT,Data Scientist,198440,2,0
+2082,SE,FT,Data Scientist,144000,2,0
+2083,SE,FT,Data Scientist,191475,2,0
+2084,SE,FT,Data Scientist,141525,2,0
+2085,SE,FT,Data Scientist,156868,2,0
+2086,SE,FT,Data Analyst,200000,2,1
+2087,MI,FT,Data Scientist,126080,0,0
+2088,SE,FT,Data Engineer,200000,2,1
+2089,SE,FT,Data Engineer,180000,2,0
+2090,MI,FT,Data Analyst,108000,2,0
+2091,SE,FT,Data Engineer,165000,2,0
+2092,SE,FT,Data Engineer,132000,2,0
+2093,SE,FT,Data Analyst,130000,2,0
+2094,SE,FT,Data Analyst,110000,2,0
+2095,MI,FT,Data Analyst,135000,2,1
+2096,SE,FT,Data Engineer,178800,2,0
+2097,SE,FT,Data Engineer,132100,2,0
+2098,SE,FT,Machine Learning Engineer,140000,0,0
+2099,SE,FT,Machine Learning Engineer,110000,0,0
+2100,SE,FT,Data Engineer,160000,2,0
+2101,SE,FT,Data Engineer,250000,2,1
+2102,EX,FT,Data Engineer,187200,2,0
+2103,EX,FT,Data Engineer,116100,2,0
+2104,SE,FT,Data Engineer,145000,2,0
+2105,SE,FT,Data Engineer,229998,0,1
+2106,SE,FT,Data Engineer,154545,0,0
+2107,SE,FT,Data Scientist,215000,0,1
+2108,SE,FT,Data Scientist,159000,0,0
+2109,SE,FT,Data Scientist,183000,2,0
+2110,SE,FT,Data Scientist,236900,2,1
+2111,SE,FT,Data Scientist,159200,2,0
+2112,SE,FT,Data Scientist,243225,2,1
+2113,SE,FT,Data Scientist,179775,2,0
+2114,SE,FT,Data Scientist,128000,2,0
+2115,SE,FT,Data Scientist,191475,2,0
+2116,SE,FT,Data Scientist,141525,2,0
+2117,SE,FT,Data Scientist,218000,0,1
+2118,SE,FT,Data Scientist,145300,0,0
+2119,SE,FT,Machine Learning Engineer,195400,2,0
+2120,SE,FT,Machine Learning Engineer,131300,2,0
+2121,EN,FT,Data Analyst,105000,2,1
+2122,SE,FT,Data Scientist,207000,2,0
+2123,SE,FT,Data Scientist,153000,2,0
+2124,SE,FT,Machine Learning Engineer,200000,2,0
+2125,SE,FT,Machine Learning Engineer,135000,2,0
+2126,SE,FT,Data Engineer,195700,0,1
+2127,SE,FT,Data Engineer,130500,0,0
+2128,SE,FT,Machine Learning Engineer,130000,2,0
+2129,SE,FT,Data Engineer,141300,0,0
+2130,SE,FT,Data Engineer,102100,0,0
+2131,MI,FT,Data Analyst,150000,2,1
+2132,MI,FT,Data Scientist,102200,2,0
+2133,SE,FT,Data Analyst,144000,2,0
+2134,SE,FT,Data Analyst,113000,2,0
+2135,SE,FT,Data Engineer,195400,2,1
+2136,SE,FT,Data Engineer,131300,2,0
+2137,SE,FT,Machine Learning Engineer,195400,2,0
+2138,SE,FT,Machine Learning Engineer,131300,2,0
+2139,SE,FT,Data Engineer,105000,2,0
+2140,SE,FT,Data Analyst,190000,2,1
+2141,SE,FT,Data Analyst,140000,2,0
+2142,SE,FT,Data Scientist,180000,2,0
+2143,SE,FT,Data Scientist,165000,2,0
+2144,SE,FT,Data Scientist,108000,0,0
+2145,SE,FT,Data Scientist,179400,0,0
+2146,SE,FT,Data Scientist,154000,0,0
+2147,SE,FT,Data Scientist,193900,0,0
+2148,SE,FT,Data Scientist,129300,0,0
+2149,EX,FT,Data Scientist,222640,0,0
+2150,EX,FT,Data Scientist,182160,0,0
+2151,MI,FT,Data Engineer,150000,0,1
+2152,SE,FT,Data Analyst,122500,2,0
+2153,EX,FT,Data Engineer,297500,2,1
+2154,EX,FT,Data Engineer,260000,2,1
+2155,SE,FT,Data Engineer,193000,2,1
+2156,SE,FT,Data Scientist,136994,2,0
+2157,SE,FT,Data Scientist,101570,2,0
+2158,MI,FT,Data Analyst,136000,2,1
+2159,MI,FT,Data Analyst,112000,2,0
+2160,SE,FT,Data Scientist,172000,2,0
+2161,SE,FT,Data Engineer,215000,0,1
+2162,SE,FT,Data Engineer,164000,0,0
+2163,SE,FT,Data Scientist,212800,2,0
+2164,SE,FT,Data Scientist,142800,2,0
+2165,SE,FT,Data Scientist,151800,0,0
+2166,SE,FT,Data Scientist,130240,0,0
+2167,SE,FT,Data Analyst,165000,2,1
+2168,SE,FT,Data Analyst,140250,2,0
+2169,SE,FT,Data Scientist,179400,2,0
+2170,SE,FT,Data Scientist,154000,2,0
+2171,SE,FT,Data Analyst,102663,2,0
+2172,SE,FT,Data Engineer,104611,2,0
+2173,SE,FT,Data Scientist,191475,0,0
+2174,SE,FT,Data Scientist,141525,0,0
+2175,SE,FT,Data Analyst,115000,0,0
+2176,EX,FT,Data Scientist,200000,2,0
+2177,EX,FT,Data Scientist,180000,2,0
+2178,EX,FT,Data Scientist,200000,2,0
+2179,SE,FT,Data Scientist,204100,0,0
+2180,SE,FT,Data Scientist,136100,0,0
+2181,SE,FT,Data Analyst,250000,0,1
+2182,MI,FT,Data Scientist,118208,0,0
+2183,MI,FT,Data Scientist,110820,0,0
+2184,MI,FT,Data Analyst,113000,0,0
+2185,SE,FT,Data Scientist,170000,2,0
+2186,MI,FT,Data Analyst,113000,2,0
+2187,MI,FT,Data Analyst,140000,2,1
+2188,SE,FT,Data Scientist,160000,0,0
+2189,SE,FT,Data Scientist,119300,0,0
+2190,MI,FT,Data Scientist,145000,1,0
+2191,SE,FT,Data Engineer,146200,2,0
+2192,SE,FT,Data Engineer,124270,2,0
+2193,MI,FT,Data Scientist,225000,0,1
+2194,MI,FT,Data Scientist,160000,0,1
+2195,SE,FT,Data Engineer,185800,2,0
+2196,SE,FT,Data Engineer,137400,2,0
+2197,SE,FT,Data Analyst,245000,0,1
+2198,SE,FT,Data Analyst,180000,0,1
+2199,SE,FT,Data Analyst,203500,0,1
+2200,SE,FT,Data Analyst,152000,0,1
+2201,SE,FT,Data Engineer,250000,0,1
+2202,SE,FT,Machine Learning Engineer,186000,2,0
+2203,SE,FT,Machine Learning Engineer,148800,2,0
+2204,MI,FT,Machine Learning Engineer,128058,1,0
+2205,EN,PT,Data Scientist,110000,2,1
+2206,MI,FT,Data Scientist,173000,1,1
+2207,SE,FT,Machine Learning Engineer,186000,2,0
+2208,SE,FT,Machine Learning Engineer,148800,2,0
+2209,MI,FT,Data Scientist,158000,2,0
+2210,MI,FT,Data Scientist,134000,2,0
+2211,EX,FT,Data Analyst,200000,2,1
+2212,EX,FT,Data Analyst,150000,2,0
+2213,SE,FT,Data Analyst,216200,0,1
+2214,SE,FT,Data Analyst,144100,0,0
+2215,MI,FT,Data Scientist,115573,0,0
+2216,SE,FT,Data Engineer,250000,0,1
+2217,SE,FT,Machine Learning Engineer,135000,2,0
+2218,SE,FT,Data Scientist,206000,2,0
+2219,SE,FT,Data Scientist,175100,2,0
+2220,SE,FT,Machine Learning Engineer,189650,0,0
+2221,SE,FT,Machine Learning Engineer,164996,0,0
+2222,SE,FT,Data Engineer,154000,2,0
+2223,SE,FT,Data Engineer,126000,2,0
+2224,SE,FT,Machine Learning Engineer,200000,2,0
+2225,SE,FT,Machine Learning Engineer,150000,2,0
+2226,SE,FT,Data Analyst,135000,2,0
+2227,SE,FT,Data Analyst,117000,2,0
+2228,SE,FT,Data Engineer,200000,2,1
+2229,SE,FT,Data Engineer,135000,2,0
+2230,SE,FT,Machine Learning Engineer,193900,0,0
+2231,SE,FT,Machine Learning Engineer,129300,0,0
+2232,SE,FT,Data Analyst,175000,2,1
+2233,SE,FT,Data Analyst,130000,2,0
+2234,SE,FT,Data Engineer,188100,0,0
+2235,SE,FT,Data Engineer,139860,0,0
+2236,SE,FT,Machine Learning Engineer,248700,0,0
+2237,SE,FT,Machine Learning Engineer,167100,0,0
+2238,SE,FT,Data Scientist,205000,0,0
+2239,SE,FT,Data Engineer,141300,0,0
+2240,SE,FT,Data Engineer,102100,0,0
+2241,SE,FT,Data Engineer,250000,0,1
+2242,SE,FT,Data Scientist,189500,2,0
+2243,SE,FT,Data Scientist,140100,2,0
+2244,SE,FT,Data Engineer,177600,2,0
+2245,SE,FT,Data Engineer,131300,2,0
+2246,SE,FT,Machine Learning Engineer,202900,2,0
+2247,SE,FT,Data Engineer,115000,2,0
+2248,EN,FT,Machine Learning Engineer,115000,1,0
+2249,MI,FT,Machine Learning Engineer,193900,0,1
+2250,MI,FT,Machine Learning Engineer,129300,0,0
+2251,SE,FT,Data Scientist,140000,2,0
+2252,MI,FT,Data Analyst,216200,0,1
+2253,MI,FT,Data Analyst,144100,0,1
+2254,SE,FT,Data Scientist,216000,0,1
+2255,SE,FT,Data Scientist,144000,0,0
+2256,EN,FT,Data Analyst,150000,2,1
+2257,SE,FT,Data Engineer,250000,1,1
+2258,MI,FT,Data Scientist,131752,2,0
+2259,EX,FT,Data Scientist,260500,0,0
+2260,EX,FT,Data Scientist,175100,0,0
+2261,MI,FT,Data Analyst,130000,2,1
+2262,SE,FT,Data Engineer,206699,0,1
+2263,MI,FT,Data Analyst,200000,0,1
+2264,EN,FT,Data Analyst,130000,1,1
+2265,SE,FT,Data Analyst,221300,2,1
+2266,SE,FT,Data Analyst,148700,2,0
+2267,SE,FT,Data Scientist,249260,0,1
+2268,SE,FT,Data Scientist,185400,0,0
+2269,SE,FT,Data Analyst,128875,2,0
+2270,SE,FT,Data Analyst,136260,2,0
+2271,SE,FT,Data Analyst,109280,2,0
+2272,SE,FT,Data Scientist,160000,2,0
+2273,MI,FT,Data Engineer,135446,0,0
+2274,MI,FT,Data Engineer,104663,0,0
+2275,EN,FT,Data Engineer,129000,2,1
+2276,MI,FT,Data Scientist,200000,2,1
+2277,EN,FT,Machine Learning Engineer,180000,2,1
+2278,MI,FT,Data Scientist,153000,2,0
+2279,SE,FT,Data Analyst,150075,2,1
+2280,SE,FT,Data Analyst,110925,2,0
+2281,SE,FT,Data Scientist,133766,2,0
+2282,SE,FT,Data Scientist,186000,0,0
+2283,SE,FT,Data Scientist,148800,0,0
+2284,SE,FT,Data Analyst,112900,0,0
+2285,SE,FT,Machine Learning Engineer,240000,0,0
+2286,SE,FT,Machine Learning Engineer,160000,0,0
+2287,SE,FT,Data Scientist,300000,2,1
+2288,SE,FT,Data Scientist,200000,2,0
+2289,MI,FT,Data Scientist,200000,2,1
+2290,MI,FT,Machine Learning Engineer,116976,0,0
+2291,MI,FT,Data Scientist,120000,0,0
+2292,SE,FT,Data Analyst,112900,2,0
+2293,SE,FT,Data Analyst,145000,2,0
+2294,SE,FT,Data Analyst,105400,2,0
+2295,SE,FT,Data Scientist,215300,2,1
+2296,SE,FT,Data Scientist,158200,2,0
+2297,SE,FT,Data Engineer,209100,2,1
+2298,SE,FT,Data Engineer,154600,2,0
+2299,SE,FT,Data Analyst,115934,0,0
+2300,SE,FT,Data Engineer,155000,2,0
+2301,SE,FT,Data Analyst,164000,0,1
+2302,SE,FT,Data Analyst,132000,0,0
+2303,SE,FT,Data Scientist,123000,2,0
+2304,EX,FT,Data Engineer,115222,2,0
+2305,SE,FT,Data Engineer,165400,2,0
+2306,SE,FT,Data Engineer,132320,2,0
+2307,SE,FT,Data Engineer,208775,2,1
+2308,SE,FT,Data Engineer,147800,2,0
+2309,SE,FT,Data Engineer,136994,2,0
+2310,SE,FT,Data Engineer,101570,2,0
+2311,SE,FT,Data Engineer,183600,2,0
+2312,SE,FT,Data Engineer,100800,2,0
+2313,SE,FT,Data Scientist,215300,0,1
+2314,SE,FT,Data Scientist,140400,0,0
+2315,SE,FT,Data Scientist,260000,2,1
+2316,MI,FT,Data Scientist,160000,2,1
+2317,MI,FT,Data Scientist,112300,2,0
+2318,MI,FT,Data Scientist,241000,2,1
+2319,MI,FT,Data Scientist,159000,2,0
+2320,SE,FT,Data Engineer,136000,0,0
+2321,SE,FT,Data Engineer,108800,0,0
+2322,EX,FT,Data Engineer,242000,2,0
+2323,EX,FT,Data Engineer,200000,2,0
+2324,SE,FT,Data Scientist,165220,2,0
+2325,SE,FT,Data Scientist,120160,2,0
+2326,SE,FT,Data Analyst,124190,2,0
+2327,SE,FT,Data Engineer,181940,0,0
+2328,SE,FT,Data Engineer,132320,0,0
+2329,SE,FT,Data Engineer,220110,0,1
+2330,SE,FT,Data Engineer,160080,0,0
+2331,SE,FT,Data Scientist,180000,0,0
+2332,SE,FT,Data Scientist,120000,0,0
+2333,MI,FT,Data Analyst,126500,0,1
+2334,MI,FT,Data Analyst,106260,0,0
+2335,SE,FT,Data Analyst,116000,0,0
+2336,SE,FT,Data Analyst,155000,2,1
+2337,SE,FT,Data Analyst,120600,2,0
+2338,MI,FT,Data Scientist,130000,0,0
+2339,MI,FT,Data Engineer,170000,2,1
+2340,SE,FT,Data Analyst,102100,2,0
+2341,SE,FT,Data Scientist,136620,2,0
+2342,SE,FT,Data Scientist,110820,0,0
+2343,SE,FT,Data Scientist,146000,2,0
+2344,EX,FT,Data Analyst,130000,2,0
+2345,EX,FT,Data Analyst,110000,2,0
+2346,SE,FT,Data Analyst,170000,2,1
+2347,SE,FT,Data Scientist,161342,2,0
+2348,SE,FT,Data Scientist,137141,2,0
+2349,SE,FT,Data Scientist,167000,2,0
+2350,SE,FT,Data Scientist,211500,2,0
+2351,SE,FT,Data Scientist,138600,2,0
+2352,SE,FT,Data Engineer,192400,2,1
+2353,SE,FT,Data Analyst,130000,2,0
+2354,SE,FT,Data Engineer,160000,0,0
+2355,SE,FT,Data Engineer,113000,0,0
+2356,MI,FT,Data Analyst,167000,2,1
+2357,MI,FT,Data Analyst,115500,2,1
+2358,SE,FT,Data Engineer,243900,2,1
+2359,SE,FT,Data Engineer,156600,2,0
+2360,SE,FT,Data Analyst,136600,2,0
+2361,SE,FT,Data Engineer,128875,2,0
+2362,EX,FT,Data Scientist,224000,2,0
+2363,EX,FT,Data Scientist,167875,2,0
+2364,EX,FT,Data Analyst,175000,2,0
+2365,EX,FT,Data Analyst,135000,2,0
+2366,SE,FT,Data Scientist,205300,0,0
+2367,SE,FT,Data Scientist,176000,2,0
+2368,SE,FT,Data Engineer,200100,2,1
+2369,SE,FT,Data Scientist,205300,0,0
+2370,SE,FT,Data Scientist,140400,0,0
+2371,SE,FT,Data Analyst,205300,0,1
+2372,SE,FT,Data Analyst,184700,0,1
+2373,SE,FT,Data Engineer,175100,2,0
+2374,SE,FT,Data Engineer,140250,2,0
+2375,SE,FT,Data Analyst,116150,2,0
+2376,SE,FT,Machine Learning Engineer,214000,2,0
+2377,SE,FT,Machine Learning Engineer,192600,2,0
+2378,SE,FT,Data Engineer,266400,2,1
+2379,SE,FT,Data Engineer,213120,2,1
+2380,MI,FT,Data Scientist,141300,0,0
+2381,MI,FT,Data Scientist,102100,0,0
+2382,MI,FT,Data Engineer,206699,0,1
+2383,SE,FT,Data Engineer,110500,2,0
+2384,SE,FT,Data Scientist,230000,2,1
+2385,SE,FT,Data Analyst,150260,2,1
+2386,SE,FT,Data Analyst,109280,2,0
+2387,MI,FT,Data Scientist,160000,2,1
+2388,SE,FT,Data Analyst,129000,0,0
+2389,SE,FT,Data Analyst,126500,2,0
+2390,SE,FT,Data Analyst,106260,2,0
+2391,SE,FT,Data Engineer,220110,2,1
+2392,SE,FT,Data Engineer,160080,2,0
+2393,SE,FT,Data Analyst,105000,2,0
+2394,MI,FT,Data Analyst,135000,2,1
+2395,SE,FT,Data Scientist,220000,2,1
+2396,MI,FT,Data Scientist,172386,0,1
+2397,SE,FT,Machine Learning Engineer,220000,2,0
+2398,SE,FT,Machine Learning Engineer,120000,2,0
+2399,MI,FT,Data Scientist,200000,2,1
+2400,SE,FT,Machine Learning Engineer,120000,2,0
+2401,EX,FT,Data Engineer,324000,2,1
+2402,EX,FT,Data Engineer,216000,2,0
+2403,SE,FT,Data Scientist,185100,2,0
+2404,SE,FT,Data Scientist,104890,2,0
+2405,SE,FT,Machine Learning Engineer,117104,1,0
+2406,EX,FT,Data Scientist,192037,1,0
+2407,MI,FT,Machine Learning Engineer,120000,2,0
+2408,MI,FT,Data Scientist,157000,2,0
+2409,MI,FT,Data Scientist,109000,1,0
+2410,SE,FT,Data Scientist,102839,2,0
+2411,SE,FT,Data Scientist,200000,2,0
+2412,SE,FT,Data Scientist,165000,2,0
+2413,MI,FT,Data Scientist,153000,1,0
+2414,SE,FT,Data Scientist,152500,2,0
+2415,EN,FT,Data Scientist,120000,2,1
+2416,MI,FT,Data Scientist,135000,2,0
+2417,SE,FT,Data Analyst,405000,2,1
+2418,SE,FT,Data Engineer,150000,0,0
+2419,SE,FT,Data Scientist,240000,0,1
+2420,MI,FT,Data Analyst,135000,2,1
+2421,SE,FT,Data Scientist,380000,2,1
+2422,MI,FT,Data Scientist,120402,0,0
+2423,SE,FT,Data Scientist,177000,2,0
+2424,SE,FT,Data Scientist,220000,0,1
+2425,EN,FT,Machine Learning Engineer,150000,2,1
+2426,SE,FT,Data Scientist,144000,1,0
+2427,SE,FT,Data Scientist,155499,2,0
+2428,EN,FT,Data Engineer,120000,2,1
+2429,EN,FT,Machine Learning Engineer,125000,0,0
+2430,SE,FT,Data Scientist,120000,1,0
+2431,EN,FT,Data Scientist,110037,0,0
+2432,SE,FT,Data Engineer,200000,2,1
+2433,MI,FT,Data Engineer,200000,2,1
+2434,MI,FT,Data Engineer,170000,2,1
+2435,MI,FT,Data Engineer,150000,2,1
+2436,EX,FT,Data Scientist,250000,0,0
+2437,EX,FT,Data Scientist,130026,1,0
+2438,EX,FT,Data Scientist,230000,1,0
+2439,EN,FT,Machine Learning Engineer,125000,2,0
+2440,SE,FT,Data Analyst,120000,2,0
+2441,MI,FT,Data Scientist,450000,0,1
+2442,SE,FT,Machine Learning Engineer,127221,1,0
+2443,SE,FT,Data Scientist,144000,2,0
+2444,MI,FT,Data Scientist,150000,2,0
+2445,MI,FT,Data Scientist,103000,2,0
+2446,SE,FT,Data Engineer,153000,2,0
+2447,MI,CT,Machine Learning Engineer,270000,2,1
+2448,EX,FT,Data Scientist,153667,2,0
+2449,MI,FT,Data Analyst,110000,2,0
+2450,EN,FT,Machine Learning Engineer,250000,1,1
+2451,EN,FT,Machine Learning Engineer,138000,2,1
+2452,MI,FT,Data Engineer,140000,2,0
+2453,SE,FT,Data Analyst,170000,2,1
+2454,EX,FT,Data Scientist,235000,2,0
+2455,EX,FT,Data Analyst,150000,2,0
+2456,EN,FT,Data Scientist,225000,2,1
+2457,SE,FT,Data Engineer,103160,2,0
+2458,SE,FT,Data Engineer,113476,2,0
+2459,SE,FT,Data Engineer,150000,2,0
+2460,SE,FT,Data Engineer,115000,2,0
+2461,MI,FT,Data Scientist,187442,2,1
+2462,MI,FT,Data Engineer,106000,2,0
+2463,MI,FT,Data Engineer,112872,1,0
+2464,SE,FT,Data Engineer,150000,2,0
+2465,SE,FT,Data Engineer,276000,0,1
+2466,SE,FT,Data Engineer,188000,2,0
+2467,SE,FT,Data Engineer,160000,2,0
+2468,MI,FT,Data Scientist,105000,2,0
+2469,SE,FT,Data Engineer,174000,2,0
+2470,SE,FT,Data Analyst,170000,2,1
+2471,SE,FT,Data Scientist,165000,2,0
+2472,SE,FT,Data Scientist,103691,2,0
+2473,MI,FT,Data Scientist,115000,0,0
+2474,SE,FT,Data Scientist,260000,0,1
+2475,MI,FT,Data Scientist,110000,0,0
+2476,MI,FT,Data Engineer,180000,2,1
+2477,SE,FT,Data Analyst,200000,2,1
+2478,SE,FT,Data Engineer,109024,1,0
+2479,SE,FT,Data Engineer,200000,2,1
+2480,SE,FT,Machine Learning Engineer,256000,2,1
+2481,MI,FT,Data Engineer,110000,2,0
+2482,SE,FT,Machine Learning Engineer,185000,1,0
+2483,MI,FT,Data Engineer,112000,2,0
+2484,SE,FT,Machine Learning Engineer,150000,1,0
+2485,SE,CT,Data Scientist,105000,2,0
+2486,MI,FT,Data Engineer,111775,0,0
+2487,SE,FT,Data Engineer,160000,1,0
+2488,SE,FT,Data Scientist,190000,2,0
+2489,EX,FT,Data Scientist,141846,0,0
+2490,SE,FT,Data Scientist,135000,0,0
+2491,MI,FT,Data Scientist,147000,1,0
+2492,SE,FT,Data Scientist,174000,2,0
+2493,MI,FT,Data Analyst,135000,2,1
+2494,SE,FT,Data Engineer,125000,1,0
+2495,SE,FT,Machine Learning Engineer,195000,2,0
+2496,EX,CT,Data Scientist,416000,2,1
+2497,SE,FT,Data Scientist,225000,2,1
+2498,MI,FT,Data Scientist,116914,1,0
+2499,SE,FT,Data Engineer,114047,2,0
+2500,SE,FT,Data Analyst,120000,0,0
+2501,EX,FT,Data Scientist,325000,2,1
+2502,SE,FT,Machine Learning Engineer,200000,2,0
+2503,MI,FT,Data Scientist,160000,2,1
+2504,SE,FT,Data Engineer,165000,0,0
+2505,SE,FT,Data Engineer,185000,2,0
+2506,MI,FT,Data Engineer,110000,2,0
+2507,SE,FT,Data Analyst,140000,2,0
+2508,SE,FT,Data Scientist,120000,1,0
+2509,SE,FT,Data Scientist,152000,2,0
+2510,MI,FT,Data Scientist,130000,1,0
+2511,SE,FT,Data Scientist,173762,2,0
+2512,SE,FT,Data Scientist,148261,2,0
+2513,MI,FT,Data Scientist,115000,1,0
+2514,SE,FT,Data Scientist,235000,2,1
+2515,SE,FT,Data Scientist,190200,2,0
+2516,MI,FT,Data Scientist,118000,2,0
+2517,MI,FT,Data Scientist,138350,2,0
+2518,MI,FT,Data Engineer,130800,2,0
+2519,SE,FT,Data Scientist,168000,0,0
+2520,MI,FT,Data Scientist,119059,2,0
+2521,MI,FT,Data Scientist,423000,1,1
+2522,SE,FT,Data Analyst,165000,2,1
+2523,SE,FT,Data Scientist,412000,2,1
+2524,MI,FT,Data Scientist,151000,2,0
+2525,EN,FT,Data Scientist,105000,2,0
