@@ -7,3 +7,4 @@ st.write("This app is for funny purposes only. This has no meaning and won't hav
 
 st.dataframe(class_model.X_train)
 
+st.metric(label="Accuracy", value=class_model.acc_score)

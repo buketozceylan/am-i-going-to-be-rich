@@ -3,6 +3,8 @@ from sklearn.preprocessing import RobustScaler
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report, confusion_matrix,accuracy_score
+from sklearn.ensemble import RandomForestClassifier
 
 df = pd.read_csv("main-data.csv")
 
@@ -43,3 +45,11 @@ X_train = pd.DataFrame(X_train, columns = X_cols)
 X_test = pd.DataFrame(X_test, columns = X_cols)
 X_train = X_train.drop("Unnamed: 0", axis =1)
 X_test = X_test.drop("Unnamed: 0", axis =1)
+
+rfc = RandomForestClassifier(n_estimators = 500, random_state=15, min_samples_split= 2,max_features=None,max_depth=None)
+rfc.fit(X_train, y_train)
+
+y_pred = rfc.predict(X_test)
+acc_score = accuracy_score(y_test,y_pred)
+class_report = classification_report(y_test,y_pred)
+conf_matrix = confusion_matrix(y_test,y_pred)
