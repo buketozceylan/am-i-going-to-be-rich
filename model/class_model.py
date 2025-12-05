@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.preprocessing import RobustScaler
+from sklearn.preprocessing import OrdinalEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
 
